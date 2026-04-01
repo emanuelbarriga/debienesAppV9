@@ -1,0 +1,62 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "ownerAccounts",
+      "queryScope": "COLLECTION",
+      "fields": [
+        { "fieldPath": "documentoPropietario", "order": "ASCENDING" },
+        { "fieldPath": "status", "order": "ASCENDING" }
+      ]
+    },
+    {
+      "collectionGroup": "ownerAccounts",
+      "queryScope": "COLLECTION",
+      "fields": [
+        { "fieldPath": "documentoPropietario", "order": "ASCENDING" },
+        { "fieldPath": "numeroCuenta", "order": "ASCENDING" }
+      ]
+    },
+    {
+      "collectionGroup": "ownerAccounts",
+      "queryScope": "COLLECTION",
+      "fields": [
+        { "fieldPath": "responsibleId", "order": "ASCENDING" },
+        { "fieldPath": "isDefault", "order": "DESCENDING" }
+      ]
+    },
+    {
+      "collectionGroup": "ownerMonthlyBalances",
+      "queryScope": "COLLECTION",
+      "fields": [
+        { "fieldPath": "anio", "order": "ASCENDING" },
+        { "fieldPath": "mes", "order": "ASCENDING" }
+      ]
+    },
+    {
+      "collectionGroup": "ownerMonthlyBalances",
+      "queryScope": "COLLECTION",
+      "fields": [
+        { "fieldPath": "documentoPropietario", "order": "ASCENDING" },
+        { "fieldPath": "anio", "order": "DESCENDING" }
+      ]
+    },
+    {
+      "collectionGroup": "paymentBatches",
+      "queryScope": "COLLECTION",
+      "fields": [
+        { "fieldPath": "anio", "order": "DESCENDING" },
+        { "fieldPath": "mes", "order": "DESCENDING" },
+        { "fieldPath": "estado", "order": "ASCENDING" }
+      ]
+    },
+    {
+      "collectionGroup": "paymentBatchItems",
+      "queryScope": "COLLECTION",
+      "fields": [
+        { "fieldPath": "batchId", "order": "ASCENDING" },
+        { "fieldPath": "estadoItem", "order": "ASCENDING" }
+      ]
+    }
+  ],
+  "fieldOverrides": []
+}

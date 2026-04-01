@@ -1,0 +1,3775 @@
+{
+  "timestamp": "2025-10-06T18:44:58.078Z",
+  "balances": [
+    {
+      "id": "1010029926_202510",
+      "data": {
+        "fechaImportacion": {
+          "seconds": 1759604270,
+          "nanoseconds": 920000000
+        },
+        "documentoPropietario": "1010029926",
+        "importadoPor": "derechoybienes@gmail.com",
+        "batchId": "llg7jh4lvxCvBgAuhc0S",
+        "distribuidoManualmente": true,
+        "mes": 10,
+        "propietario": "CASTRO GUTIERREZ HANNA PAVLOVA",
+        "distribucion": [
+          {
+            "numeroCuenta": "3128922024",
+            "banco": "NEQUI",
+            "monto": -181262,
+            "porcentaje": 25,
+            "ownerAccountId": "3hhVFEDx8fl7LG0fj8Js"
+          },
+          {
+            "banco": "NU BANK",
+            "monto": -181262,
+            "ownerAccountId": "bO9JQ49bWh6HgwEGbMwK",
+            "numeroCuenta": "86404230",
+            "porcentaje": 25
+          },
+          {
+            "porcentaje": 50,
+            "banco": "COOPERATIVA FINANCIERA DE ANTIOQUIA",
+            "numeroCuenta": "1.401.021.513",
+            "monto": -362524,
+            "ownerAccountId": "vZcczhvkvXcB5JqwOV4a"
+          }
+        ],
+        "anio": 2025,
+        "saldo": -725048
+      }
+    },
+    {
+      "id": "1061691871_202510",
+      "data": {
+        "anio": 2025,
+        "documentoPropietario": "1061691871",
+        "propietario": "GOMEZ ORTEGA ISAURA",
+        "fechaImportacion": {
+          "seconds": 1759602569,
+          "nanoseconds": 744000000
+        },
+        "distribuidoManualmente": false,
+        "mes": 10,
+        "saldo": -692636,
+        "importadoPor": "derechoybienes@gmail.com",
+        "batchId": "tJZ7SEVwRw0e8yRpKZT0",
+        "distribucion": [
+          {
+            "ownerAccountId": "9dVMNOgw6hIkIvUADJQc",
+            "porcentaje": 100,
+            "monto": -692636,
+            "numeroCuenta": "81.368.428.272",
+            "banco": "BANCOLOMBIA"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1090366116_202510",
+      "data": {
+        "distribuidoManualmente": false,
+        "fechaImportacion": {
+          "seconds": 1759602576,
+          "nanoseconds": 311000000
+        },
+        "anio": 2025,
+        "documentoPropietario": "1090366116",
+        "distribucion": [
+          {
+            "banco": "BANCOLOMBIA",
+            "ownerAccountId": "MTVtvX1c6SX1JXKTcUGp",
+            "monto": -940155,
+            "porcentaje": 100,
+            "numeroCuenta": "83628640508"
+          }
+        ],
+        "mes": 10,
+        "importadoPor": "derechoybienes@gmail.com",
+        "saldo": -940155,
+        "propietario": "SILVA LEAL JUAN PABLO RODRIGO ALBERTO",
+        "batchId": "qqtpDJhwglWu1nYkIKbs"
+      }
+    },
+    {
+      "id": "1107514565_202510",
+      "data": {
+        "importadoPor": "derechoybienes@gmail.com",
+        "documentoPropietario": "1107514565",
+        "batchId": "OnwGJYhi5k9DZvPWoyJQ",
+        "anio": 2025,
+        "propietario": "ZEA VARGAS NATALIA",
+        "saldo": -890272,
+        "mes": 10,
+        "distribuidoManualmente": false,
+        "distribucion": [
+          {
+            "ownerAccountId": "TqrOZyEDby6JQbi9i1W8",
+            "numeroCuenta": "16.500.680.067",
+            "monto": -890272,
+            "porcentaje": 100,
+            "banco": "DAVIVIENDA"
+          }
+        ],
+        "fechaImportacion": {
+          "seconds": 1759602577,
+          "nanoseconds": 905000000
+        }
+      }
+    },
+    {
+      "id": "1107529953_202510",
+      "data": {
+        "anio": 2025,
+        "distribuidoManualmente": false,
+        "distribucion": [
+          {
+            "ownerAccountId": "OcJiEEwAwzYZA3JnfHq9",
+            "monto": -548986,
+            "porcentaje": 100,
+            "banco": "SCOTIABANK",
+            "numeroCuenta": "5.862.012.355"
+          }
+        ],
+        "propietario": "GIRALDO GUEVARA JESUS DAVID",
+        "fechaImportacion": {
+          "seconds": 1759602569,
+          "nanoseconds": 317000000
+        },
+        "saldo": -548986,
+        "documentoPropietario": "1107529953",
+        "importadoPor": "derechoybienes@gmail.com",
+        "mes": 10,
+        "batchId": "UMHBWAqcTRQ74KwFRwy6"
+      }
+    },
+    {
+      "id": "1123623501_202510",
+      "data": {
+        "importadoPor": "derechoybienes@gmail.com",
+        "anio": 2025,
+        "mes": 10,
+        "batchId": "PwFOPBVuOR6UHc7AWG6w",
+        "distribuidoManualmente": false,
+        "propietario": "FUERTES SUESCA CAROLINA",
+        "fechaImportacion": {
+          "seconds": 1759602568,
+          "nanoseconds": 237000000
+        },
+        "documentoPropietario": "1123623501",
+        "saldo": -1620978,
+        "distribucion": [
+          {
+            "ownerAccountId": "a8NAIR1tCNUPZjN9rPRv",
+            "banco": "BBVA",
+            "porcentaje": 100,
+            "monto": -1620978,
+            "numeroCuenta": "039-5226681"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1125806228_202510",
+      "data": {
+        "distribucion": [
+          {
+            "monto": -727862,
+            "banco": "BANCOLOMBIA",
+            "numeroCuenta": "29.868.447.832",
+            "ownerAccountId": "mRnImKu6nwBNIWQa4S1G",
+            "porcentaje": 100
+          }
+        ],
+        "importadoPor": "derechoybienes@gmail.com",
+        "mes": 10,
+        "fechaImportacion": {
+          "seconds": 1759602567,
+          "nanoseconds": 746000000
+        },
+        "documentoPropietario": "1125806228",
+        "distribuidoManualmente": false,
+        "anio": 2025,
+        "saldo": -727862,
+        "batchId": "tJZ7SEVwRw0e8yRpKZT0",
+        "propietario": "ESTRADA ARIAS LAURA ANDREA"
+      }
+    },
+    {
+      "id": "1126602663_202510",
+      "data": {
+        "anio": 2025,
+        "distribuidoManualmente": false,
+        "distribucion": [
+          {
+            "porcentaje": 100,
+            "monto": -635280,
+            "ownerAccountId": "nWfsxbWCy0OfOYUBYK0z",
+            "numeroCuenta": "71.000.020.740",
+            "banco": "BANCOLOMBIA"
+          }
+        ],
+        "propietario": "GOMEZ FAJARDO MARILYN",
+        "fechaImportacion": {
+          "seconds": 1759602569,
+          "nanoseconds": 601000000
+        },
+        "saldo": -635280,
+        "documentoPropietario": "1126602663",
+        "importadoPor": "derechoybienes@gmail.com",
+        "batchId": "tJZ7SEVwRw0e8yRpKZT0",
+        "mes": 10
+      }
+    },
+    {
+      "id": "1130623573_202510",
+      "data": {
+        "batchId": "qqtpDJhwglWu1nYkIKbs",
+        "anio": 2025,
+        "saldo": -857090,
+        "mes": 10,
+        "documentoPropietario": "1130623573",
+        "distribuidoManualmente": false,
+        "importadoPor": "derechoybienes@gmail.com",
+        "propietario": "BARONA PEREIRA CATALINA",
+        "distribucion": [
+          {
+            "ownerAccountId": "FP0BKX4QYHkMGCA1ip7m",
+            "banco": "BANCOLOMBIA",
+            "numeroCuenta": "51.492.086.456",
+            "monto": -857090,
+            "porcentaje": 100
+          }
+        ],
+        "fechaImportacion": {
+          "seconds": 1759602565,
+          "nanoseconds": 659000000
+        }
+      }
+    },
+    {
+      "id": "1130635646_202510",
+      "data": {
+        "mes": 10,
+        "fechaImportacion": {
+          "seconds": 1759602566,
+          "nanoseconds": 346000000
+        },
+        "saldo": -700149,
+        "batchId": "TrMphqqzBclHEjA7Rn1f",
+        "anio": 2025,
+        "propietario": "CADENA VIQUE DIANA VANESSA",
+        "distribuidoManualmente": false,
+        "importadoPor": "derechoybienes@gmail.com",
+        "documentoPropietario": "1130635646",
+        "distribucion": [
+          {
+            "ownerAccountId": "U2XQHlPpqJVKXLfggTyN",
+            "banco": "NEQUI",
+            "porcentaje": 100,
+            "monto": -700149,
+            "numeroCuenta": "3.177.585.158"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1130642412_202510",
+      "data": {
+        "anio": 2025,
+        "mes": 10,
+        "distribuidoManualmente": false,
+        "importadoPor": "derechoybienes@gmail.com",
+        "documentoPropietario": "1130642412",
+        "propietario": "ROSERO LOPEZ MONICA",
+        "batchId": "tJZ7SEVwRw0e8yRpKZT0",
+        "distribucion": [
+          {
+            "ownerAccountId": "sGXtwZZ1Pm5alblQ3eXe",
+            "porcentaje": 100,
+            "banco": "BANCOLOMBIA",
+            "monto": -678960,
+            "numeroCuenta": "6000056394"
+          }
+        ],
+        "fechaImportacion": {
+          "seconds": 1759602575,
+          "nanoseconds": 718000000
+        },
+        "saldo": -678960
+      }
+    },
+    {
+      "id": "1143824777_202510",
+      "data": {
+        "propietario": "BARRIGA PALOMINO EMANUEL ALEJANDRO",
+        "saldo": 0,
+        "fechaImportacion": {
+          "seconds": 1759602565,
+          "nanoseconds": 834000000
+        },
+        "mes": 10,
+        "documentoPropietario": "1143824777",
+        "distribuidoManualmente": false,
+        "importadoPor": "derechoybienes@gmail.com",
+        "distribucion": [
+          {
+            "monto": 0,
+            "banco": "NEQUI",
+            "ownerAccountId": "KYnMLKggkqHnDSRzjfYe",
+            "numeroCuenta": "3014532504",
+            "porcentaje": 100
+          }
+        ],
+        "anio": 2025
+      }
+    },
+    {
+      "id": "1144033592_202510",
+      "data": {
+        "propietario": "HURTADO CABRERA CLAUDIA MARCELA",
+        "distribuidoManualmente": false,
+        "batchId": "c9qimEBkEG07Cc2i9ed6",
+        "distribucion": [
+          {
+            "numeroCuenta": "825231005652479",
+            "ownerAccountId": "T02kaCWvoJTLeZxW7Ewd",
+            "banco": "UALA",
+            "porcentaje": 100,
+            "monto": -563231
+          }
+        ],
+        "saldo": -563231,
+        "mes": 10,
+        "importadoPor": "derechoybienes@gmail.com",
+        "fechaImportacion": {
+          "seconds": 1759602570,
+          "nanoseconds": 851000000
+        },
+        "anio": 2025,
+        "documentoPropietario": "1144033592"
+      }
+    },
+    {
+      "id": "1144087232_202510",
+      "data": {
+        "batchId": "tJZ7SEVwRw0e8yRpKZT0",
+        "distribucion": [
+          {
+            "monto": -814924,
+            "ownerAccountId": "OESidNO5cnV8OlHXzHj6",
+            "porcentaje": 100,
+            "banco": "BANCOLOMBIA",
+            "numeroCuenta": "80.374.197.723"
+          }
+        ],
+        "mes": 10,
+        "distribuidoManualmente": false,
+        "saldo": -814924,
+        "anio": 2025,
+        "propietario": "VELASCO RIOS ORLANDO",
+        "importadoPor": "derechoybienes@gmail.com",
+        "fechaImportacion": {
+          "seconds": 1759602577,
+          "nanoseconds": 59000000
+        },
+        "documentoPropietario": "1144087232"
+      }
+    },
+    {
+      "id": "1144165149_202510",
+      "data": {
+        "mes": 10,
+        "saldo": 0,
+        "importadoPor": "derechoybienes@gmail.com",
+        "anio": 2025,
+        "distribuidoManualmente": false,
+        "documentoPropietario": "1144165149",
+        "fechaImportacion": {
+          "seconds": 1759602577,
+          "nanoseconds": 199000000
+        },
+        "propietario": "VELASCO RIOS ZACHA XIOMARA",
+        "distribucion": [
+          {
+            "ownerAccountId": "FCQzS9LLVdWM58U3C2zq",
+            "porcentaje": 100,
+            "numeroCuenta": "10507236006",
+            "banco": "BANCOOMEVA",
+            "monto": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "1144191734_202510",
+      "data": {
+        "batchId": "tJZ7SEVwRw0e8yRpKZT0",
+        "documentoPropietario": "1144191734",
+        "anio": 2025,
+        "fechaImportacion": {
+          "seconds": 1759602569,
+          "nanoseconds": 460000000
+        },
+        "saldo": -555911,
+        "distribucion": [
+          {
+            "porcentaje": 100,
+            "banco": "BANCOLOMBIA",
+            "numeroCuenta": "82.500.057.340",
+            "monto": -555911,
+            "ownerAccountId": "sZ36MxjdVTaURBdYe84l"
+          }
+        ],
+        "importadoPor": "derechoybienes@gmail.com",
+        "mes": 10,
+        "propietario": "GOMEZ CASTILLO MIGUEL ANGEL",
+        "distribuidoManualmente": false
+      }
+    },
+    {
+      "id": "123456789_202510",
+      "data": {
+        "fechaImportacion": {
+          "seconds": 1759773394,
+          "nanoseconds": 856000000
+        },
+        "importadoPor": "derechoybienes@gmail.com",
+        "propietario": "PROPIETARIO DE PRUEBA",
+        "mes": 10,
+        "saldo": -1000000,
+        "batchId": null,
+        "documentoPropietario": "123456789",
+        "distribucion": [
+          {
+            "porcentaje": 50,
+            "numeroCuenta": "123456789",
+            "ownerAccountId": "PbcoiR7HcHZMCZeJO6SG",
+            "banco": "NU BANK",
+            "monto": -500000
+          },
+          {
+            "ownerAccountId": "UhZxQuuDtJzjWwAjyIKV",
+            "banco": "ITAÚ",
+            "monto": -500000,
+            "numeroCuenta": "987654321",
+            "porcentaje": 50
+          }
+        ],
+        "anio": 2025,
+        "distribuidoManualmente": true
+      }
+    },
+    {
+      "id": "14624167_202510",
+      "data": {
+        "distribucion": [
+          {
+            "banco": "NU BANK",
+            "monto": -918881,
+            "ownerAccountId": "sjqy6lf65AxfhmVQcbzQ",
+            "porcentaje": 100,
+            "numeroCuenta": "67277856"
+          }
+        ],
+        "documentoPropietario": "14624167",
+        "anio": 2025,
+        "batchId": "nsmiKEuZq3c7ZIOsuODG",
+        "saldo": -918881,
+        "propietario": "RAMIREZ ECHEVERRI MAURICIO",
+        "fechaImportacion": {
+          "seconds": 1759602574,
+          "nanoseconds": 679000000
+        },
+        "distribuidoManualmente": false,
+        "importadoPor": "derechoybienes@gmail.com",
+        "mes": 10
+      }
+    },
+    {
+      "id": "14956254_202510",
+      "data": {
+        "mes": 10,
+        "propietario": "REY CEBALLOS ALVARO HUMBERTO",
+        "importadoPor": "derechoybienes@gmail.com",
+        "saldo": -989612,
+        "fechaImportacion": {
+          "seconds": 1759602574,
+          "nanoseconds": 970000000
+        },
+        "distribuidoManualmente": false,
+        "documentoPropietario": "14956254",
+        "distribucion": [
+          {
+            "porcentaje": 100,
+            "banco": "ITAU",
+            "ownerAccountId": "Vq4mkQJ4mUzyuDe6Jzb5",
+            "numeroCuenta": ".072677862",
+            "monto": -989612
+          }
+        ],
+        "batchId": "2ZknOTOtqbYFav3c1SMd",
+        "anio": 2025
+      }
+    },
+    {
+      "id": "14965879_202510",
+      "data": {
+        "fechaImportacion": {
+          "seconds": 1759602564,
+          "nanoseconds": 412000000
+        },
+        "batchId": "2ZknOTOtqbYFav3c1SMd",
+        "distribuidoManualmente": false,
+        "documentoPropietario": "14965879",
+        "importadoPor": "derechoybienes@gmail.com",
+        "mes": 10,
+        "distribucion": [
+          {
+            "porcentaje": 100,
+            "ownerAccountId": "paQXPdCtfPC0V6CByi7k",
+            "banco": "ITAU",
+            "numeroCuenta": "302.352.133",
+            "monto": -848972
+          }
+        ],
+        "propietario": "ACHINTE VELASCO EDILBERTO",
+        "anio": 2025,
+        "saldo": -848972
+      }
+    },
+    {
+      "id": "14971534_202510",
+      "data": {
+        "documentoPropietario": "14971534",
+        "anio": 2025,
+        "distribuidoManualmente": false,
+        "fechaImportacion": {
+          "seconds": 1759602576,
+          "nanoseconds": 777000000
+        },
+        "distribucion": [
+          {
+            "numeroCuenta": "10302165601",
+            "monto": 0,
+            "banco": "BANCOOMEVA",
+            "porcentaje": 100,
+            "ownerAccountId": "tc0iLqHMYMYYQudLLEwa"
+          }
+        ],
+        "propietario": "TORRES CAICEDO FERNANDO",
+        "saldo": 0,
+        "importadoPor": "derechoybienes@gmail.com",
+        "mes": 10
+      }
+    },
+    {
+      "id": "15345384_202510",
+      "data": {
+        "documentoPropietario": "15345384",
+        "anio": 2025,
+        "fechaImportacion": {
+          "seconds": 1759602574,
+          "nanoseconds": 824000000
+        },
+        "batchId": "Jq7MpTLbVuhBMJyr0zYT",
+        "importadoPor": "derechoybienes@gmail.com",
+        "distribucion": [
+          {
+            "numeroCuenta": "564-16178-4",
+            "porcentaje": 100,
+            "monto": -1240888,
+            "ownerAccountId": "sVwdd9CN2KKvKUAA20dg",
+            "banco": "BANCO POPULAR"
+          }
+        ],
+        "saldo": -1240888,
+        "mes": 10,
+        "propietario": "RESTREPO LUIS CARLOS",
+        "distribuidoManualmente": false
+      }
+    },
+    {
+      "id": "16285571_202510",
+      "data": {
+        "propietario": "LEDESMA OTERO GERMAIN ADRIAN",
+        "importadoPor": "derechoybienes@gmail.com",
+        "mes": 10,
+        "saldo": -1177207,
+        "distribuidoManualmente": false,
+        "fechaImportacion": {
+          "seconds": 1759602571,
+          "nanoseconds": 463000000
+        },
+        "documentoPropietario": "16285571",
+        "distribucion": [
+          {
+            "numeroCuenta": "74.124.089.372",
+            "monto": -1177207,
+            "ownerAccountId": "8jaZ7Rsyxv8XE03LJAPz",
+            "banco": "BANCOLOMBIA",
+            "porcentaje": 100
+          }
+        ],
+        "batchId": "tJZ7SEVwRw0e8yRpKZT0",
+        "anio": 2025
+      }
+    },
+    {
+      "id": "16375429_202510",
+      "data": {
+        "distribucion": [
+          {
+            "numeroCuenta": ".054528849",
+            "banco": "BANCO DE BOGOTA",
+            "monto": -1833857,
+            "ownerAccountId": "7kToefKGUNrSU3IGyDR5",
+            "porcentaje": 100
+          }
+        ],
+        "importadoPor": "derechoybienes@gmail.com",
+        "batchId": "uqMDRfLe5fnWvls8SGpB",
+        "fechaImportacion": {
+          "seconds": 1759602574,
+          "nanoseconds": 539000000
+        },
+        "documentoPropietario": "16375429",
+        "saldo": -1833857,
+        "distribuidoManualmente": false,
+        "mes": 10,
+        "propietario": "POSADA YEPES JOSE MIGUEL",
+        "anio": 2025
+      }
+    },
+    {
+      "id": "16584271_202510",
+      "data": {
+        "saldo": -4027033,
+        "mes": 10,
+        "batchId": "tJZ7SEVwRw0e8yRpKZT0",
+        "anio": 2025,
+        "importadoPor": "derechoybienes@gmail.com",
+        "distribucion": [
+          {
+            "monto": -4027033,
+            "numeroCuenta": "82.900.017.464",
+            "porcentaje": 100,
+            "ownerAccountId": "Q8Elk1lkt1AaCwNpESnD",
+            "banco": "BANCOLOMBIA"
+          }
+        ],
+        "distribuidoManualmente": true,
+        "documentoPropietario": "16584271",
+        "fechaImportacion": {
+          "seconds": 1759611061,
+          "nanoseconds": 309000000
+        },
+        "propietario": "RODRIGUEZ NAVAS LEONEL"
+      }
+    },
+    {
+      "id": "16593762_202510",
+      "data": {
+        "importadoPor": "derechoybienes@gmail.com",
+        "distribuidoManualmente": false,
+        "propietario": "GARCIA ZU_IGA LEONARDO",
+        "distribucion": [
+          {
+            "porcentaje": 100,
+            "banco": "BANCO DE BOGOTA",
+            "monto": -689052,
+            "numeroCuenta": "254.310.030",
+            "ownerAccountId": "XlfEimajt2YWTOoGQieI"
+          }
+        ],
+        "documentoPropietario": "16593762",
+        "batchId": "uqMDRfLe5fnWvls8SGpB",
+        "fechaImportacion": {
+          "seconds": 1759602568,
+          "nanoseconds": 729000000
+        },
+        "mes": 10,
+        "anio": 2025,
+        "saldo": -689052
+      }
+    },
+    {
+      "id": "16633228_202510",
+      "data": {
+        "mes": 10,
+        "propietario": "GIL MEDINA JAIR ALEJANDRO",
+        "importadoPor": "derechoybienes@gmail.com",
+        "saldo": -2971267,
+        "fechaImportacion": {
+          "seconds": 1759602569,
+          "nanoseconds": 33000000
+        },
+        "distribuidoManualmente": false,
+        "documentoPropietario": "16633228",
+        "distribucion": [
+          {
+            "porcentaje": 100,
+            "numeroCuenta": "74510736048",
+            "monto": -2971267,
+            "banco": "BANCOLOMBIA",
+            "ownerAccountId": "3jlOLQf8OU5GrsvtVhAZ"
+          }
+        ],
+        "anio": 2025,
+        "batchId": "qqtpDJhwglWu1nYkIKbs"
+      }
+    },
+    {
+      "id": "16657658_202510",
+      "data": {
+        "anio": 2025,
+        "distribuidoManualmente": false,
+        "mes": 10,
+        "propietario": "MILLAN MINA EYDER",
+        "saldo": -1246417,
+        "importadoPor": "derechoybienes@gmail.com",
+        "documentoPropietario": "16657658",
+        "distribucion": [
+          {
+            "numeroCuenta": "315 5610699",
+            "porcentaje": 100,
+            "ownerAccountId": "W3x7pUrwWsElorRNPtgr",
+            "banco": "NEQUI",
+            "monto": -1246417
+          }
+        ],
+        "fechaImportacion": {
+          "seconds": 1759602572,
+          "nanoseconds": 551000000
+        },
+        "batchId": "TrMphqqzBclHEjA7Rn1f"
+      }
+    },
+    {
+      "id": "16697392_202510",
+      "data": {
+        "saldo": -2248991,
+        "importadoPor": "derechoybienes@gmail.com",
+        "mes": 10,
+        "batchId": "qqtpDJhwglWu1nYkIKbs",
+        "propietario": "COLLAZOS ROJAS CARLOS ALBERTO",
+        "fechaImportacion": {
+          "seconds": 1759602567,
+          "nanoseconds": 314000000
+        },
+        "documentoPropietario": "16697392",
+        "distribuidoManualmente": false,
+        "anio": 2025,
+        "distribucion": [
+          {
+            "numeroCuenta": "71.014.622.769",
+            "porcentaje": 100,
+            "banco": "BANCOLOMBIA",
+            "ownerAccountId": "meJI7jMVD0x2ol6GZbRP",
+            "monto": -2248991
+          }
+        ]
+      }
+    },
+    {
+      "id": "16698111_202510",
+      "data": {
+        "importadoPor": "derechoybienes@gmail.com",
+        "batchId": "tJZ7SEVwRw0e8yRpKZT0",
+        "documentoPropietario": "16698111",
+        "distribucion": [
+          {
+            "monto": -516300,
+            "banco": "BANCOLOMBIA",
+            "ownerAccountId": "irvGQbxU8Yn02HQO3MsL",
+            "numeroCuenta": "74900004357",
+            "porcentaje": 100
+          }
+        ],
+        "anio": 2025,
+        "saldo": -516300,
+        "propietario": "GARCIA TABORDA JOSE OMAR",
+        "distribuidoManualmente": false,
+        "fechaImportacion": {
+          "seconds": 1759602568,
+          "nanoseconds": 564000000
+        },
+        "mes": 10
+      }
+    },
+    {
+      "id": "16743169_202510",
+      "data": {
+        "saldo": -200000,
+        "mes": 10,
+        "batchId": "TrMphqqzBclHEjA7Rn1f",
+        "distribucion": [
+          {
+            "banco": "NEQUI",
+            "monto": -200000,
+            "ownerAccountId": "qiWFdOro3nKVoptBaDqA",
+            "numeroCuenta": "3113627007",
+            "porcentaje": 100
+          }
+        ],
+        "documentoPropietario": "16743169",
+        "anio": 2025,
+        "fechaImportacion": {
+          "seconds": 1759602567,
+          "nanoseconds": 124000000
+        },
+        "importadoPor": "derechoybienes@gmail.com",
+        "distribuidoManualmente": false,
+        "propietario": "CASTRO MURILLAS FRANCISCO JAVIER"
+      }
+    },
+    {
+      "id": "16752237_202510",
+      "data": {
+        "documentoPropietario": "16752237",
+        "fechaImportacion": {
+          "seconds": 1759602574,
+          "nanoseconds": 76000000
+        },
+        "distribucion": [
+          {
+            "numeroCuenta": "142073170",
+            "monto": -906585,
+            "porcentaje": 100,
+            "ownerAccountId": "zaZcNyPkKHNYf0aHwYqV",
+            "banco": "BANCO DE BOGOTA"
+          }
+        ],
+        "saldo": -906585,
+        "batchId": "uqMDRfLe5fnWvls8SGpB",
+        "anio": 2025,
+        "propietario": "PANESSO WILMER",
+        "distribuidoManualmente": false,
+        "mes": 10,
+        "importadoPor": "derechoybienes@gmail.com"
+      }
+    },
+    {
+      "id": "16756995_202510",
+      "data": {
+        "importadoPor": "derechoybienes@gmail.com",
+        "propietario": "OSPINA CELIS JOHN JAIRO",
+        "documentoPropietario": "16756995",
+        "distribucion": [
+          {
+            "porcentaje": 100,
+            "ownerAccountId": "QgiyvIqFyBNsf5o7a1ja",
+            "banco": "NEQUI",
+            "numeroCuenta": "3153396590",
+            "monto": 0
+          }
+        ],
+        "distribuidoManualmente": false,
+        "anio": 2025,
+        "mes": 10,
+        "saldo": 0,
+        "fechaImportacion": {
+          "seconds": 1759602573,
+          "nanoseconds": 481000000
+        }
+      }
+    },
+    {
+      "id": "16771268_202510",
+      "data": {
+        "anio": 2025,
+        "saldo": -1138461,
+        "importadoPor": "derechoybienes@gmail.com",
+        "distribuidoManualmente": false,
+        "propietario": "ROJAS ALZATE JESUS EMILIO",
+        "mes": 10,
+        "batchId": "W2F9j5rULajQJwrxTmrf",
+        "fechaImportacion": {
+          "seconds": 1759602575,
+          "nanoseconds": 559000000
+        },
+        "distribucion": [
+          {
+            "monto": -1138461,
+            "banco": "CAJA SOCIAL",
+            "porcentaje": 100,
+            "ownerAccountId": "iLxFsnhypWBZb2TpW1GK",
+            "numeroCuenta": "24.071.521.529"
+          }
+        ],
+        "documentoPropietario": "16771268"
+      }
+    },
+    {
+      "id": "16820223_202510",
+      "data": {
+        "documentoPropietario": "16820223",
+        "saldo": 0,
+        "mes": 10,
+        "fechaImportacion": {
+          "seconds": 1759602573,
+          "nanoseconds": 343000000
+        },
+        "importadoPor": "derechoybienes@gmail.com",
+        "propietario": "ORDO_EZ MORCILLO URBEY",
+        "distribuidoManualmente": false,
+        "distribucion": [
+          {
+            "ownerAccountId": "56dkOPPvE1iEyCI6rxIs",
+            "porcentaje": 100,
+            "banco": "NINGUNO",
+            "monto": 0,
+            "numeroCuenta": "0"
+          }
+        ],
+        "anio": 2025
+      }
+    },
+    {
+      "id": "16828599_202510",
+      "data": {
+        "distribuidoManualmente": false,
+        "propietario": "SCARPETTA DIAZ MIGUEL",
+        "documentoPropietario": "16828599",
+        "saldo": 0,
+        "anio": 2025,
+        "fechaImportacion": {
+          "seconds": 1759602576,
+          "nanoseconds": 23000000
+        },
+        "importadoPor": "derechoybienes@gmail.com",
+        "mes": 10,
+        "distribucion": [
+          {
+            "porcentaje": 100,
+            "numeroCuenta": "16.570.370.029",
+            "ownerAccountId": "a77zdaTNvcsbkTbflZva",
+            "monto": 0,
+            "banco": "DAVIVIENDA"
+          }
+        ]
+      }
+    },
+    {
+      "id": "19145266_202510",
+      "data": {
+        "batchId": "UMHBWAqcTRQ74KwFRwy6",
+        "importadoPor": "derechoybienes@gmail.com",
+        "fechaImportacion": {
+          "seconds": 1759602565,
+          "nanoseconds": 504000000
+        },
+        "distribuidoManualmente": false,
+        "documentoPropietario": "19145266",
+        "saldo": -2261663,
+        "distribucion": [
+          {
+            "numeroCuenta": ".0502072285",
+            "ownerAccountId": "u37Pf1qm6isvpnpmCwMR",
+            "monto": -2261663,
+            "porcentaje": 100,
+            "banco": "SCOTIABANK"
+          }
+        ],
+        "anio": 2025,
+        "propietario": "AYALDE OCA_A VICTOR RAUL",
+        "mes": 10
+      }
+    },
+    {
+      "id": "19148342_202510",
+      "data": {
+        "propietario": "BARRIGA GOMEZ ERCEY",
+        "documentoPropietario": "19148342",
+        "mes": 10,
+        "importadoPor": "derechoybienes@gmail.com",
+        "distribucion": [
+          {
+            "numeroCuenta": "24.115.617.678",
+            "banco": "CAJA SOCIAL",
+            "porcentaje": 16,
+            "monto": -250000,
+            "ownerAccountId": "pGcXTcFdBRJmZn76Ebk4"
+          },
+          {
+            "banco": "NEQUI",
+            "monto": -1290308,
+            "numeroCuenta": "3006207080",
+            "ownerAccountId": "8s6DoQAOgyPYvPzkBgMN",
+            "porcentaje": 84
+          }
+        ],
+        "anio": 2025,
+        "distribuidoManualmente": true,
+        "fechaImportacion": {
+          "seconds": 1759604270,
+          "nanoseconds": 729000000
+        },
+        "batchId": "W2F9j5rULajQJwrxTmrf",
+        "saldo": -1540308
+      }
+    },
+    {
+      "id": "21386841_202510",
+      "data": {
+        "mes": 10,
+        "distribucion": [
+          {
+            "banco": "BANCOLOMBIA",
+            "numeroCuenta": "74.542.297.551",
+            "ownerAccountId": "38SRfvNTJqvqWUUINxjC",
+            "monto": -982771,
+            "porcentaje": 100
+          }
+        ],
+        "importadoPor": "derechoybienes@gmail.com",
+        "saldo": -982771,
+        "fechaImportacion": {
+          "seconds": 1759602573,
+          "nanoseconds": 8000000
+        },
+        "documentoPropietario": "21386841",
+        "batchId": "tJZ7SEVwRw0e8yRpKZT0",
+        "propietario": "NARVAEZ CASTA_O MARIA RUBIELA",
+        "anio": 2025,
+        "distribuidoManualmente": false
+      }
+    },
+    {
+      "id": "27072240_202510",
+      "data": {
+        "mes": 10,
+        "propietario": "OLIVA TOVAR MARTHA STELLA",
+        "distribucion": [
+          {
+            "banco": "NEQUI",
+            "numeroCuenta": "3203686638",
+            "monto": 0,
+            "ownerAccountId": "UtJHpgnRw9KN5mreYy66",
+            "porcentaje": 100
+          }
+        ],
+        "importadoPor": "derechoybienes@gmail.com",
+        "fechaImportacion": {
+          "seconds": 1759602573,
+          "nanoseconds": 202000000
+        },
+        "anio": 2025,
+        "documentoPropietario": "27072240",
+        "saldo": 0,
+        "distribuidoManualmente": false
+      }
+    },
+    {
+      "id": "27122645_202510",
+      "data": {
+        "documentoPropietario": "27122645",
+        "distribuidoManualmente": false,
+        "fechaImportacion": {
+          "seconds": 1759602566,
+          "nanoseconds": 978000000
+        },
+        "propietario": "CASTILLO QUI_ONES DORIS HELENA",
+        "saldo": 0,
+        "distribucion": [
+          {
+            "ownerAccountId": "MvARs3WwBpdic41kDKD1",
+            "porcentaje": 100,
+            "monto": 0,
+            "banco": "BANCOLOMBIA",
+            "numeroCuenta": "0,6023914636"
+          }
+        ],
+        "importadoPor": "derechoybienes@gmail.com",
+        "anio": 2025,
+        "mes": 10
+      }
+    },
+    {
+      "id": "29070367_202510",
+      "data": {
+        "documentoPropietario": "29070367",
+        "fechaImportacion": {
+          "seconds": 1759602572,
+          "nanoseconds": 268000000
+        },
+        "distribucion": [
+          {
+            "porcentaje": 100,
+            "monto": -1204700,
+            "numeroCuenta": "76.400.025.581",
+            "ownerAccountId": "FVl1mGavXXOFAITdYDAV",
+            "banco": "BANCOLOMBIA"
+          }
+        ],
+        "saldo": -1204700,
+        "batchId": "tJZ7SEVwRw0e8yRpKZT0",
+        "propietario": "MAFLA FIGUEROA NELLY",
+        "anio": 2025,
+        "distribuidoManualmente": false,
+        "mes": 10,
+        "importadoPor": "derechoybienes@gmail.com"
+      }
+    },
+    {
+      "id": "29182411_202510",
+      "data": {
+        "saldo": -897650,
+        "distribuidoManualmente": false,
+        "fechaImportacion": {
+          "seconds": 1759602571,
+          "nanoseconds": 955000000
+        },
+        "documentoPropietario": "29182411",
+        "importadoPor": "derechoybienes@gmail.com",
+        "distribucion": [
+          {
+            "porcentaje": 100,
+            "banco": "DAVIVIENDA",
+            "ownerAccountId": "75uFhHxWZ9S4CRXNA3U8",
+            "monto": -897650,
+            "numeroCuenta": ".016870111149"
+          }
+        ],
+        "propietario": "LOSADA JOHANNA ANDREA",
+        "batchId": "OnwGJYhi5k9DZvPWoyJQ",
+        "anio": 2025,
+        "mes": 10
+      }
+    },
+    {
+      "id": "29805103_202510",
+      "data": {
+        "anio": 2025,
+        "distribuidoManualmente": false,
+        "fechaImportacion": {
+          "seconds": 1759602576,
+          "nanoseconds": 162000000
+        },
+        "saldo": -774450,
+        "batchId": "fcPeDE6u7OOWNIvgD40m",
+        "importadoPor": "derechoybienes@gmail.com",
+        "distribucion": [
+          {
+            "monto": -774450,
+            "numeroCuenta": ".01735600000270418",
+            "ownerAccountId": "sYiG4JEq3jKv8RUKCFGX",
+            "banco": "BANCO UNION",
+            "porcentaje": 100
+          }
+        ],
+        "mes": 10,
+        "documentoPropietario": "29805103",
+        "propietario": "SERNA LOPEZ OLGA"
+      }
+    },
+    {
+      "id": "30283587_202510",
+      "data": {
+        "importadoPor": "derechoybienes@gmail.com",
+        "distribuidoManualmente": false,
+        "propietario": "GIRALDO ALZATE LUZ ELENA",
+        "distribucion": [
+          {
+            "porcentaje": 100,
+            "banco": "NO PAGAR",
+            "monto": 0,
+            "numeroCuenta": "0",
+            "ownerAccountId": "zlA7YxzhKXdBaG5SnvlJ"
+          }
+        ],
+        "documentoPropietario": "30283587",
+        "fechaImportacion": {
+          "seconds": 1759602569,
+          "nanoseconds": 176000000
+        },
+        "mes": 10,
+        "anio": 2025,
+        "saldo": 0
+      }
+    },
+    {
+      "id": "31193423_202510",
+      "data": {
+        "importadoPor": "derechoybienes@gmail.com",
+        "documentoPropietario": "31193423",
+        "anio": 2025,
+        "distribuidoManualmente": false,
+        "saldo": -2569501,
+        "batchId": "uqMDRfLe5fnWvls8SGpB",
+        "mes": 10,
+        "propietario": "GORDILLO TRIVI_O DARNELLY",
+        "distribucion": [
+          {
+            "banco": "BANCO DE BOGOTA",
+            "porcentaje": 100,
+            "monto": -2569501,
+            "numeroCuenta": "459265922",
+            "ownerAccountId": "fETQ2wlDTw0kPJsMupkJ"
+          }
+        ],
+        "fechaImportacion": {
+          "seconds": 1759602569,
+          "nanoseconds": 923000000
+        }
+      }
+    },
+    {
+      "id": "31200964_202510",
+      "data": {
+        "distribucion": [
+          {
+            "numeroCuenta": "17.060.026.501",
+            "monto": -1539408,
+            "banco": "DAVIVIENDA",
+            "porcentaje": 100,
+            "ownerAccountId": "GgV2ww7OMTitgLESYBlA"
+          }
+        ],
+        "saldo": -1539408,
+        "propietario": "RIOS TINOCO GLORIA ARLENE",
+        "documentoPropietario": "31200964",
+        "anio": 2025,
+        "fechaImportacion": {
+          "seconds": 1759602575,
+          "nanoseconds": 417000000
+        },
+        "batchId": "OnwGJYhi5k9DZvPWoyJQ",
+        "distribuidoManualmente": false,
+        "importadoPor": "derechoybienes@gmail.com",
+        "mes": 10
+      }
+    },
+    {
+      "id": "31209308_202510",
+      "data": {
+        "batchId": "qqtpDJhwglWu1nYkIKbs",
+        "distribuidoManualmente": false,
+        "propietario": "ZACIPA SILVA MARIA VILMA",
+        "anio": 2025,
+        "fechaImportacion": {
+          "seconds": 1759602577,
+          "nanoseconds": 724000000
+        },
+        "saldo": -1247771,
+        "distribucion": [
+          {
+            "banco": "BANCOLOMBIA",
+            "porcentaje": 100,
+            "monto": -1247771,
+            "numeroCuenta": "51413601235",
+            "ownerAccountId": "4SRNXBYc0mU21lYy7dvW"
+          }
+        ],
+        "mes": 10,
+        "importadoPor": "derechoybienes@gmail.com",
+        "documentoPropietario": "31209308"
+      }
+    },
+    {
+      "id": "31219108_202510",
+      "data": {
+        "mes": 10,
+        "distribucion": [
+          {
+            "porcentaje": 100,
+            "numeroCuenta": "60.500.000.145",
+            "ownerAccountId": "7B5WKPgzUxjvtAMZvXss",
+            "banco": "BANCOLOMBIA",
+            "monto": -2308603
+          }
+        ],
+        "batchId": "tJZ7SEVwRw0e8yRpKZT0",
+        "importadoPor": "derechoybienes@gmail.com",
+        "anio": 2025,
+        "propietario": "ZACIPA SILVA EDITH",
+        "fechaImportacion": {
+          "seconds": 1759602577,
+          "nanoseconds": 584000000
+        },
+        "saldo": -2308603,
+        "distribuidoManualmente": false,
+        "documentoPropietario": "31219108"
+      }
+    },
+    {
+      "id": "31241306_202510",
+      "data": {
+        "mes": 10,
+        "documentoPropietario": "31241306",
+        "anio": 2025,
+        "fechaImportacion": {
+          "seconds": 1759602568,
+          "nanoseconds": 868000000
+        },
+        "distribuidoManualmente": false,
+        "importadoPor": "derechoybienes@gmail.com",
+        "propietario": "GARCIA ZU_IGA MYRIAM",
+        "batchId": "qqtpDJhwglWu1nYkIKbs",
+        "saldo": -620399,
+        "distribucion": [
+          {
+            "monto": -620399,
+            "porcentaje": 100,
+            "ownerAccountId": "12nHUb3eP8WBVHJp6PKg",
+            "numeroCuenta": "75.236.558.291",
+            "banco": "BANCOLOMBIA"
+          }
+        ]
+      }
+    },
+    {
+      "id": "31290539_202510",
+      "data": {
+        "distribuidoManualmente": false,
+        "distribucion": [
+          {
+            "monto": -1290469,
+            "porcentaje": 100,
+            "numeroCuenta": "71000028783",
+            "banco": "BANCOLOMBIA",
+            "ownerAccountId": "lhrczqP2ZYkWrDR1MCTf"
+          }
+        ],
+        "mes": 10,
+        "importadoPor": "derechoybienes@gmail.com",
+        "propietario": "HENAO ECHEVERRI MARIA PATRICIA",
+        "anio": 2025,
+        "saldo": -1290469,
+        "batchId": "qqtpDJhwglWu1nYkIKbs",
+        "fechaImportacion": {
+          "seconds": 1759602570,
+          "nanoseconds": 537000000
+        },
+        "documentoPropietario": "31290539"
+      }
+    },
+    {
+      "id": "31376972_202510",
+      "data": {
+        "batchId": "qqtpDJhwglWu1nYkIKbs",
+        "documentoPropietario": "31376972",
+        "distribuidoManualmente": true,
+        "fechaImportacion": {
+          "seconds": 1759604271,
+          "nanoseconds": 117000000
+        },
+        "propietario": "CELORIO BENITEZ AMANDA",
+        "saldo": -2983437,
+        "distribucion": [
+          {
+            "porcentaje": 56,
+            "ownerAccountId": "3bjSPw0xc6ua0vBD0lCz",
+            "numeroCuenta": "76.661.787.232",
+            "monto": -1660992,
+            "banco": "BANCOLOMBIA"
+          },
+          {
+            "porcentaje": 44,
+            "monto": -1322445,
+            "ownerAccountId": "PGOh8AiUatX0mXodiTah",
+            "banco": "BANCOLOMBIA",
+            "numeroCuenta": "30.685.268.383"
+          }
+        ],
+        "importadoPor": "derechoybienes@gmail.com",
+        "anio": 2025,
+        "mes": 10
+      }
+    },
+    {
+      "id": "31384482_202510",
+      "data": {
+        "mes": 10,
+        "importadoPor": "derechoybienes@gmail.com",
+        "batchId": "W2F9j5rULajQJwrxTmrf",
+        "distribuidoManualmente": false,
+        "fechaImportacion": {
+          "seconds": 1759602570,
+          "nanoseconds": 992000000
+        },
+        "documentoPropietario": "31384482",
+        "distribucion": [
+          {
+            "ownerAccountId": "ZVSonj8JF9HlpSZA2d6R",
+            "monto": -859671,
+            "banco": "CAJA SOCIAL",
+            "numeroCuenta": "24030623981",
+            "porcentaje": 100
+          }
+        ],
+        "anio": 2025,
+        "saldo": -859671,
+        "propietario": "HURTADO HURTADO MARIA NELLY"
+      }
+    },
+    {
+      "id": "315766587_202510",
+      "data": {
+        "mes": 10,
+        "distribuidoManualmente": false,
+        "propietario": "MEJIA GARCIA XIOMARA SOFIA",
+        "batchId": "W2F9j5rULajQJwrxTmrf",
+        "importadoPor": "derechoybienes@gmail.com",
+        "documentoPropietario": "315766587",
+        "anio": 2025,
+        "saldo": -745901,
+        "fechaImportacion": {
+          "seconds": 1759602572,
+          "nanoseconds": 408000000
+        },
+        "distribucion": [
+          {
+            "banco": "CAJA SOCIAL",
+            "monto": -745901,
+            "porcentaje": 100,
+            "ownerAccountId": "Z920h8FNCikleNdYLg9v",
+            "numeroCuenta": "24.044.499.396"
+          }
+        ]
+      }
+    },
+    {
+      "id": "31862603_202510",
+      "data": {
+        "batchId": "PwFOPBVuOR6UHc7AWG6w",
+        "propietario": "CAMELO PANESSO GLORIA LUZ",
+        "mes": 10,
+        "distribucion": [
+          {
+            "ownerAccountId": "GmJP4s6FXSudbmw8zx69",
+            "porcentaje": 100,
+            "banco": "BBVA",
+            "monto": -5687742,
+            "numeroCuenta": "0532000200005460-"
+          }
+        ],
+        "fechaImportacion": {
+          "seconds": 1759602566,
+          "nanoseconds": 528000000
+        },
+        "saldo": -5687742,
+        "anio": 2025,
+        "importadoPor": "derechoybienes@gmail.com",
+        "distribuidoManualmente": false,
+        "documentoPropietario": "31862603"
+      }
+    },
+    {
+      "id": "31866998_202510",
+      "data": {
+        "mes": 10,
+        "propietario": "RIASCOS JIMENEZ MARIA FANNY",
+        "documentoPropietario": "31866998",
+        "fechaImportacion": {
+          "seconds": 1759602575,
+          "nanoseconds": 110000000
+        },
+        "batchId": "tJZ7SEVwRw0e8yRpKZT0",
+        "saldo": -783084,
+        "importadoPor": "derechoybienes@gmail.com",
+        "distribuidoManualmente": false,
+        "anio": 2025,
+        "distribucion": [
+          {
+            "numeroCuenta": "76443475041",
+            "monto": -783084,
+            "ownerAccountId": "4Cfjeu7aD1O3uzfbX95w",
+            "banco": "BANCOLOMBIA",
+            "porcentaje": 100
+          }
+        ]
+      }
+    },
+    {
+      "id": "31868183_202510",
+      "data": {
+        "propietario": "GUZMAN RIVERA IRMA CECILIA",
+        "anio": 2025,
+        "distribuidoManualmente": false,
+        "importadoPor": "derechoybienes@gmail.com",
+        "saldo": 0,
+        "mes": 10,
+        "fechaImportacion": {
+          "seconds": 1759602570,
+          "nanoseconds": 231000000
+        },
+        "documentoPropietario": "31868183",
+        "distribucion": [
+          {
+            "banco": "NINGUNO",
+            "monto": 0,
+            "porcentaje": 100,
+            "ownerAccountId": "VPxQ111fO0ORiHQmjSEx",
+            "numeroCuenta": "0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "31877658_202510",
+      "data": {
+        "documentoPropietario": "31877658",
+        "batchId": "tJZ7SEVwRw0e8yRpKZT0",
+        "propietario": "ARCINIEGAS ALVAREZ LUZ ADRIANA",
+        "distribucion": [
+          {
+            "ownerAccountId": "QZN0RS7y1OEwn5mSKtb8",
+            "porcentaje": 100,
+            "numeroCuenta": "82.900.017.464",
+            "monto": -2682917,
+            "banco": "BANCOLOMBIA"
+          }
+        ],
+        "distribuidoManualmente": false,
+        "saldo": -2682917,
+        "mes": 10,
+        "importadoPor": "derechoybienes@gmail.com",
+        "anio": 2025,
+        "fechaImportacion": {
+          "seconds": 1759602564,
+          "nanoseconds": 584000000
+        }
+      }
+    },
+    {
+      "id": "31885021_202510",
+      "data": {
+        "importadoPor": "derechoybienes@gmail.com",
+        "distribucion": [
+          {
+            "numeroCuenta": ".0550488449409405",
+            "porcentaje": 100,
+            "ownerAccountId": "yFYP1aP6qEjGmGnNiJfT",
+            "monto": -1395475,
+            "banco": "DAVIVIENDA"
+          }
+        ],
+        "mes": 10,
+        "distribuidoManualmente": false,
+        "fechaImportacion": {
+          "seconds": 1759602571,
+          "nanoseconds": 147000000
+        },
+        "propietario": "HURTADO SOLIS GLORIA AMPARO",
+        "documentoPropietario": "31885021",
+        "saldo": -1395475,
+        "batchId": "OnwGJYhi5k9DZvPWoyJQ",
+        "anio": 2025
+      }
+    },
+    {
+      "id": "31933211_202510",
+      "data": {
+        "mes": 10,
+        "distribuidoManualmente": true,
+        "propietario": "CABRERA CABRERA LUZ MERY",
+        "importadoPor": "derechoybienes@gmail.com",
+        "documentoPropietario": "31933211",
+        "anio": 2025,
+        "saldo": -750000,
+        "fechaImportacion": {
+          "seconds": 1759762564,
+          "nanoseconds": 947000000
+        },
+        "distribucion": [
+          {
+            "porcentaje": 100,
+            "banco": "NU BANK",
+            "monto": -750000,
+            "numeroCuenta": "25008434",
+            "ownerAccountId": "xmW6OY0O1ZEPE0hyDqbx"
+          }
+        ]
+      }
+    },
+    {
+      "id": "31945596_202510",
+      "data": {
+        "propietario": "VARGAS VELASCO GLORIA",
+        "importadoPor": "derechoybienes@gmail.com",
+        "mes": 10,
+        "saldo": -1195833,
+        "distribuidoManualmente": false,
+        "fechaImportacion": {
+          "seconds": 1759602576,
+          "nanoseconds": 920000000
+        },
+        "documentoPropietario": "31945596",
+        "batchId": "W2F9j5rULajQJwrxTmrf",
+        "distribucion": [
+          {
+            "monto": -1195833,
+            "numeroCuenta": "24.051.533.371",
+            "porcentaje": 100,
+            "ownerAccountId": "xdsz3RxHMPoJBSRF6OGo",
+            "banco": "CAJA SOCIAL"
+          }
+        ],
+        "anio": 2025
+      }
+    },
+    {
+      "id": "31983834_202510",
+      "data": {
+        "distribucion": [
+          {
+            "numeroCuenta": "51.451.017.458",
+            "monto": -1768664,
+            "banco": "BANCOLOMBIA",
+            "porcentaje": 100,
+            "ownerAccountId": "qw6AgN3hdtTpEFRQqnwK"
+          }
+        ],
+        "importadoPor": "derechoybienes@gmail.com",
+        "saldo": -1768664,
+        "mes": 10,
+        "batchId": "qqtpDJhwglWu1nYkIKbs",
+        "documentoPropietario": "31983834",
+        "distribuidoManualmente": false,
+        "fechaImportacion": {
+          "seconds": 1759602572,
+          "nanoseconds": 126000000
+        },
+        "propietario": "LOSADA _A_EZ SANDRA PILAR",
+        "anio": 2025
+      }
+    },
+    {
+      "id": "3493335_202510",
+      "data": {
+        "propietario": "ARISTIZABAL LOPEZ ARNOLDO DE JESUS",
+        "fechaImportacion": {
+          "seconds": 1759602564,
+          "nanoseconds": 961000000
+        },
+        "saldo": -2700000,
+        "documentoPropietario": "3493335",
+        "batchId": "qqtpDJhwglWu1nYkIKbs",
+        "mes": 10,
+        "distribuidoManualmente": false,
+        "anio": 2025,
+        "distribucion": [
+          {
+            "ownerAccountId": "KcF9EcUBVXyNFPo9LDIe",
+            "porcentaje": 100,
+            "monto": -2700000,
+            "numeroCuenta": "63127006799  -  convenio 23940",
+            "banco": "BANCOLOMBIA"
+          }
+        ],
+        "importadoPor": "derechoybienes@gmail.com"
+      }
+    },
+    {
+      "id": "38435334_202510",
+      "data": {
+        "distribucion": [
+          {
+            "monto": -635941,
+            "ownerAccountId": "vsu4xg6E78og3HXaYU51",
+            "porcentaje": 100,
+            "banco": "BANCOLOMBIA",
+            "numeroCuenta": "82116022580"
+          }
+        ],
+        "mes": 10,
+        "importadoPor": "derechoybienes@gmail.com",
+        "saldo": -635941,
+        "documentoPropietario": "38435334",
+        "fechaImportacion": {
+          "seconds": 1759602570,
+          "nanoseconds": 397000000
+        },
+        "batchId": "qqtpDJhwglWu1nYkIKbs",
+        "propietario": "HENAO ECHEVERRI DIANA BEATRIZ",
+        "anio": 2025,
+        "distribuidoManualmente": false
+      }
+    },
+    {
+      "id": "38641268_202510",
+      "data": {
+        "anio": 2025,
+        "batchId": "tJZ7SEVwRw0e8yRpKZT0",
+        "distribuidoManualmente": false,
+        "importadoPor": "derechoybienes@gmail.com",
+        "propietario": "GALLEGO POSSO PAOLA ANDREA",
+        "fechaImportacion": {
+          "seconds": 1759602568,
+          "nanoseconds": 380000000
+        },
+        "saldo": -731452,
+        "distribucion": [
+          {
+            "ownerAccountId": "youjZ9HJ1RKvOD90Zbq7",
+            "monto": -731452,
+            "numeroCuenta": "51.482.961.537",
+            "banco": "BANCOLOMBIA",
+            "porcentaje": 100
+          }
+        ],
+        "mes": 10,
+        "documentoPropietario": "38641268"
+      }
+    },
+    {
+      "id": "38671694_202510",
+      "data": {
+        "anio": 2025,
+        "distribucion": [
+          {
+            "ownerAccountId": "nwUsVQvbXj4K1rkvQop2",
+            "porcentaje": 100,
+            "banco": "SCOTIABANK",
+            "monto": 0,
+            "numeroCuenta": "1007572685"
+          }
+        ],
+        "fechaImportacion": {
+          "seconds": 1759602570,
+          "nanoseconds": 677000000
+        },
+        "saldo": 0,
+        "mes": 10,
+        "distribuidoManualmente": false,
+        "importadoPor": "derechoybienes@gmail.com",
+        "propietario": "HURTADO CABRERA ANA MARIA",
+        "documentoPropietario": "38671694"
+      }
+    },
+    {
+      "id": "38994534_202510",
+      "data": {
+        "propietario": "CHARFUELAN DE SANCHEZ BLANCA EMMA",
+        "importadoPor": "derechoybienes@gmail.com",
+        "mes": 10,
+        "saldo": -2266951,
+        "distribuidoManualmente": true,
+        "fechaImportacion": {
+          "seconds": 1759604271,
+          "nanoseconds": 318000000
+        },
+        "documentoPropietario": "38994534",
+        "distribucion": [
+          {
+            "numeroCuenta": "131.009.532",
+            "monto": -2266951,
+            "porcentaje": 100,
+            "banco": "BANCO AV VILLAS",
+            "ownerAccountId": "7IpqeUzTdUOlHDfmgnOK"
+          }
+        ],
+        "batchId": "3kYrkJdIKkhUIpR6eZmW",
+        "anio": 2025
+      }
+    },
+    {
+      "id": "39151845_202510",
+      "data": {
+        "distribuidoManualmente": false,
+        "documentoPropietario": "39151845",
+        "propietario": "MORALES SANCHEZ LUZ MARINA",
+        "importadoPor": "derechoybienes@gmail.com",
+        "saldo": 0,
+        "distribucion": [
+          {
+            "monto": 0,
+            "porcentaje": 100,
+            "banco": "BBVA",
+            "ownerAccountId": "48ZbHxMjXjBtOiwXcP9i",
+            "numeroCuenta": ".0013074009600056928"
+          }
+        ],
+        "mes": 10,
+        "fechaImportacion": {
+          "seconds": 1759602572,
+          "nanoseconds": 728000000
+        },
+        "anio": 2025
+      }
+    },
+    {
+      "id": "41762040_202510",
+      "data": {
+        "propietario": "OTERO OTERO BLANCA TERESA",
+        "importadoPor": "derechoybienes@gmail.com",
+        "anio": 2025,
+        "batchId": "tJZ7SEVwRw0e8yRpKZT0",
+        "distribucion": [
+          {
+            "banco": "BANCOLOMBIA",
+            "porcentaje": 100,
+            "numeroCuenta": "80716453832",
+            "ownerAccountId": "0NuqCiZfKdYGI8pnY46y",
+            "monto": -1286919
+          }
+        ],
+        "saldo": -1286919,
+        "distribuidoManualmente": false,
+        "mes": 10,
+        "fechaImportacion": {
+          "seconds": 1759602573,
+          "nanoseconds": 765000000
+        },
+        "documentoPropietario": "41762040"
+      }
+    },
+    {
+      "id": "4779287_202510",
+      "data": {
+        "mes": 10,
+        "fechaImportacion": {
+          "seconds": 1759602576,
+          "nanoseconds": 492000000
+        },
+        "saldo": -491883,
+        "anio": 2025,
+        "distribuidoManualmente": false,
+        "documentoPropietario": "4779287",
+        "importadoPor": "derechoybienes@gmail.com",
+        "batchId": "qdc7uXErj2EXtbJfNoTM",
+        "distribucion": [
+          {
+            "banco": "BANCO AGRARIO",
+            "porcentaje": 100,
+            "numeroCuenta": "421800008684",
+            "ownerAccountId": "bRrFEKYdyAizVRsEYD5N",
+            "monto": -491883
+          }
+        ],
+        "propietario": "SINISTERRA JACINTO"
+      }
+    },
+    {
+      "id": "51746506_202510",
+      "data": {
+        "propietario": "FAJARDO VALENCIA GLORIA AMPARO",
+        "fechaImportacion": {
+          "seconds": 1759602568,
+          "nanoseconds": 65000000
+        },
+        "mes": 10,
+        "anio": 2025,
+        "documentoPropietario": "51746506",
+        "saldo": -256000,
+        "importadoPor": "derechoybienes@gmail.com",
+        "distribuidoManualmente": false,
+        "batchId": "qqtpDJhwglWu1nYkIKbs",
+        "distribucion": [
+          {
+            "banco": "BANCOLOMBIA",
+            "numeroCuenta": "85.335.387.177",
+            "monto": -256000,
+            "porcentaje": 100,
+            "ownerAccountId": "R1AUyg4XCblc8DlABJ2x"
+          }
+        ]
+      }
+    },
+    {
+      "id": "6159393_202510",
+      "data": {
+        "batchId": "UMHBWAqcTRQ74KwFRwy6",
+        "documentoPropietario": "6159393",
+        "distribuidoManualmente": false,
+        "fechaImportacion": {
+          "seconds": 1759602575,
+          "nanoseconds": 269000000
+        },
+        "anio": 2025,
+        "mes": 10,
+        "saldo": -1395504,
+        "distribucion": [
+          {
+            "monto": -1395504,
+            "ownerAccountId": "qXo1HBTZzmWeAITwzqVy",
+            "porcentaje": 100,
+            "numeroCuenta": "5.116.068.011",
+            "banco": "SCOTIABANK"
+          }
+        ],
+        "importadoPor": "derechoybienes@gmail.com",
+        "propietario": "RIASCOS RIASCOS LUPERIO"
+      }
+    },
+    {
+      "id": "66709428_202510",
+      "data": {
+        "anio": 2025,
+        "propietario": "GORDILLO TRIVI_O DEYA MARITZA",
+        "documentoPropietario": "66709428",
+        "fechaImportacion": {
+          "seconds": 1759602570,
+          "nanoseconds": 63000000
+        },
+        "saldo": 0,
+        "importadoPor": "derechoybienes@gmail.com",
+        "distribucion": [
+          {
+            "numeroCuenta": "3127299605",
+            "banco": "NEQUI",
+            "monto": 0,
+            "ownerAccountId": "sUChMaE0aXp2s2mD6pxg",
+            "porcentaje": 100
+          }
+        ],
+        "distribuidoManualmente": false,
+        "mes": 10
+      }
+    },
+    {
+      "id": "66717138_202510",
+      "data": {
+        "distribucion": [
+          {
+            "monto": -946798,
+            "numeroCuenta": "51.460.598.595",
+            "ownerAccountId": "mMd6Ko50y0C72Zk0wewv",
+            "banco": "BANCOLOMBIA",
+            "porcentaje": 100
+          }
+        ],
+        "importadoPor": "derechoybienes@gmail.com",
+        "distribuidoManualmente": false,
+        "propietario": "LONDO_O SERNA SANDRA PATRICIA",
+        "batchId": "tJZ7SEVwRw0e8yRpKZT0",
+        "documentoPropietario": "66717138",
+        "anio": 2025,
+        "saldo": -946798,
+        "mes": 10,
+        "fechaImportacion": {
+          "seconds": 1759602571,
+          "nanoseconds": 787000000
+        }
+      }
+    },
+    {
+      "id": "66765743_202510",
+      "data": {
+        "distribuidoManualmente": false,
+        "distribucion": [
+          {
+            "banco": "BANCOLOMBIA",
+            "porcentaje": 100,
+            "monto": -815692,
+            "numeroCuenta": "6.080.946.684",
+            "ownerAccountId": "IPLuep12IvLrEvyTkP2i"
+          }
+        ],
+        "importadoPor": "derechoybienes@gmail.com",
+        "documentoPropietario": "66765743",
+        "propietario": "LONDO_O PIEDRAHITA MARIA EUGENIA",
+        "anio": 2025,
+        "saldo": -815692,
+        "mes": 10,
+        "batchId": "tJZ7SEVwRw0e8yRpKZT0",
+        "fechaImportacion": {
+          "seconds": 1759602571,
+          "nanoseconds": 648000000
+        }
+      }
+    },
+    {
+      "id": "66777084_202510",
+      "data": {
+        "saldo": -1201569,
+        "documentoPropietario": "66777084",
+        "distribucion": [
+          {
+            "banco": "BANCOLOMBIA",
+            "ownerAccountId": "vnQNbWusHgBnd01TsUQ2",
+            "porcentaje": 100,
+            "monto": -1201569,
+            "numeroCuenta": ".06600001732"
+          }
+        ],
+        "batchId": "tJZ7SEVwRw0e8yRpKZT0",
+        "mes": 10,
+        "fechaImportacion": {
+          "seconds": 1759602574,
+          "nanoseconds": 229000000
+        },
+        "propietario": "PARRA QUINTERO ANA MONICA",
+        "distribuidoManualmente": false,
+        "anio": 2025,
+        "importadoPor": "derechoybienes@gmail.com"
+      }
+    },
+    {
+      "id": "66821029_202510",
+      "data": {
+        "importadoPor": "derechoybienes@gmail.com",
+        "distribucion": [
+          {
+            "porcentaje": 100,
+            "banco": "CAJA SOCIAL",
+            "ownerAccountId": "uGJawIGw3VlmU7V6igEZ",
+            "numeroCuenta": "24.036.159.039",
+            "monto": -653137
+          }
+        ],
+        "saldo": -653137,
+        "batchId": "W2F9j5rULajQJwrxTmrf",
+        "documentoPropietario": "66821029",
+        "fechaImportacion": {
+          "seconds": 1759602573,
+          "nanoseconds": 933000000
+        },
+        "mes": 10,
+        "propietario": "PABON TUNUBALA MARIA DEL PILAR",
+        "distribuidoManualmente": false,
+        "anio": 2025
+      }
+    },
+    {
+      "id": "66904096_202510",
+      "data": {
+        "mes": 10,
+        "batchId": "0wqzULOPOVUrofOV2bFf",
+        "distribucion": [
+          {
+            "ownerAccountId": "JdNWbZkddkN4VbODrwUZ",
+            "numeroCuenta": "21.812.219",
+            "banco": "BANCO DE OCCIDENTE",
+            "monto": -1485364,
+            "porcentaje": 100
+          }
+        ],
+        "saldo": -1485364,
+        "documentoPropietario": "66904096",
+        "anio": 2025,
+        "fechaImportacion": {
+          "seconds": 1759602576,
+          "nanoseconds": 629000000
+        },
+        "importadoPor": "derechoybienes@gmail.com",
+        "distribuidoManualmente": false,
+        "propietario": "SOTELO _A_EZ JENNY"
+      }
+    },
+    {
+      "id": "66981042_202510",
+      "data": {
+        "importadoPor": "derechoybienes@gmail.com",
+        "fechaImportacion": {
+          "seconds": 1759602564,
+          "nanoseconds": 777000000
+        },
+        "distribucion": [
+          {
+            "ownerAccountId": "oNvZmyAxk0bwwLSohPfr",
+            "numeroCuenta": "1.068.497.619",
+            "banco": "BANCOLOMBIA",
+            "monto": -593767,
+            "porcentaje": 100
+          }
+        ],
+        "documentoPropietario": "66981042",
+        "saldo": -593767,
+        "anio": 2025,
+        "distribuidoManualmente": false,
+        "mes": 10,
+        "batchId": "qqtpDJhwglWu1nYkIKbs",
+        "propietario": "ARISTIZABAL ADRIANA"
+      }
+    },
+    {
+      "id": "70825109_202510",
+      "data": {
+        "fechaImportacion": {
+          "seconds": 1759602565,
+          "nanoseconds": 133000000
+        },
+        "distribucion": [
+          {
+            "numeroCuenta": "1.068.497.619",
+            "banco": "BANCOLOMBIA",
+            "porcentaje": 100,
+            "monto": -899643,
+            "ownerAccountId": "RdlprkytXpT1rmwdEPyR"
+          }
+        ],
+        "anio": 2025,
+        "mes": 10,
+        "distribuidoManualmente": false,
+        "importadoPor": "derechoybienes@gmail.com",
+        "propietario": "ARISTIZABAL LOPEZ GENARO DE JESUS",
+        "batchId": "qqtpDJhwglWu1nYkIKbs",
+        "documentoPropietario": "70825109",
+        "saldo": -899643
+      }
+    },
+    {
+      "id": "7692901_202510",
+      "data": {
+        "distribuidoManualmente": false,
+        "anio": 2025,
+        "saldo": -856417,
+        "distribucion": [
+          {
+            "numeroCuenta": "505.032.659",
+            "monto": -856417,
+            "porcentaje": 100,
+            "banco": "ITAU",
+            "ownerAccountId": "ffbIxmXIJ3Lmw5RNFwaB"
+          }
+        ],
+        "fechaImportacion": {
+          "seconds": 1759602565,
+          "nanoseconds": 329000000
+        },
+        "batchId": "2ZknOTOtqbYFav3c1SMd",
+        "propietario": "ARISTIZABAL SALGUERO JUAN CARLOS",
+        "documentoPropietario": "7692901",
+        "mes": 10,
+        "importadoPor": "derechoybienes@gmail.com"
+      }
+    },
+    {
+      "id": "7692951_202510",
+      "data": {
+        "propietario": "ESCOBAR GASCA LUIS EDUARDO",
+        "mes": 10,
+        "anio": 2025,
+        "fechaImportacion": {
+          "seconds": 1759602567,
+          "nanoseconds": 606000000
+        },
+        "distribucion": [
+          {
+            "ownerAccountId": "eX7FPXue0P0KZv3tLIjN",
+            "banco": "BBVA",
+            "numeroCuenta": "524.054.749",
+            "porcentaje": 100,
+            "monto": -2679074
+          }
+        ],
+        "saldo": -2679074,
+        "distribuidoManualmente": false,
+        "batchId": "PwFOPBVuOR6UHc7AWG6w",
+        "importadoPor": "derechoybienes@gmail.com",
+        "documentoPropietario": "7692951"
+      }
+    },
+    {
+      "id": "80817972_202510",
+      "data": {
+        "anio": 2025,
+        "fechaImportacion": {
+          "seconds": 1759602572,
+          "nanoseconds": 868000000
+        },
+        "propietario": "MU_OZ LOPEZ ALEJANDRO",
+        "documentoPropietario": "80817972",
+        "distribuidoManualmente": false,
+        "mes": 10,
+        "saldo": 0,
+        "importadoPor": "derechoybienes@gmail.com",
+        "distribucion": [
+          {
+            "porcentaje": 100,
+            "monto": 0,
+            "banco": "BANCOLOMBIA",
+            "numeroCuenta": "51.460.224.750",
+            "ownerAccountId": "UeR2jvGBbo9i2xC367AV"
+          }
+        ]
+      }
+    },
+    {
+      "id": "94360869_202510",
+      "data": {
+        "batchId": "qqtpDJhwglWu1nYkIKbs",
+        "documentoPropietario": "94360869",
+        "fechaImportacion": {
+          "seconds": 1759602566,
+          "nanoseconds": 699000000
+        },
+        "distribuidoManualmente": false,
+        "importadoPor": "derechoybienes@gmail.com",
+        "distribucion": [
+          {
+            "ownerAccountId": "63z0pWxO87kJdijE7Swe",
+            "banco": "BANCOLOMBIA",
+            "numeroCuenta": "72.569.460.141",
+            "porcentaje": 100,
+            "monto": -7000000
+          }
+        ],
+        "mes": 10,
+        "propietario": "CASTA_O SALAZAR JORGE NELSON",
+        "anio": 2025,
+        "saldo": -7000000
+      }
+    },
+    {
+      "id": "94455184_202510",
+      "data": {
+        "mes": 10,
+        "batchId": "TrMphqqzBclHEjA7Rn1f",
+        "distribucion": [
+          {
+            "monto": -950888,
+            "ownerAccountId": "XIOpj5Qc1sW8RPaHyTqE",
+            "banco": "NEQUI",
+            "porcentaje": 100,
+            "numeroCuenta": "3.166.623.854"
+          }
+        ],
+        "saldo": -950888,
+        "documentoPropietario": "94455184",
+        "fechaImportacion": {
+          "seconds": 1759602566,
+          "nanoseconds": 15000000
+        },
+        "anio": 2025,
+        "importadoPor": "derechoybienes@gmail.com",
+        "distribuidoManualmente": false,
+        "propietario": "BORJA GALLARDO FRANCISCO JAVIER"
+      }
+    },
+    {
+      "id": "94504519_202510",
+      "data": {
+        "importadoPor": "derechoybienes@gmail.com",
+        "saldo": -1017664,
+        "documentoPropietario": "94504519",
+        "propietario": "OTERO JIMMY MAURICIO",
+        "mes": 10,
+        "fechaImportacion": {
+          "seconds": 1759602573,
+          "nanoseconds": 620000000
+        },
+        "batchId": "tJZ7SEVwRw0e8yRpKZT0",
+        "distribucion": [
+          {
+            "ownerAccountId": "q8GApUWyDdeP4IjH8yYh",
+            "porcentaje": 100,
+            "banco": "BANCOLOMBIA",
+            "monto": -1017664,
+            "numeroCuenta": "80719682816"
+          }
+        ],
+        "anio": 2025,
+        "distribuidoManualmente": false
+      }
+    },
+    {
+      "id": "94507601_202510",
+      "data": {
+        "importadoPor": "derechoybienes@gmail.com",
+        "distribuidoManualmente": false,
+        "anio": 2025,
+        "propietario": "SALDA_A MEDINA GABRIEL",
+        "mes": 10,
+        "fechaImportacion": {
+          "seconds": 1759602575,
+          "nanoseconds": 856000000
+        },
+        "distribucion": [
+          {
+            "porcentaje": 100,
+            "numeroCuenta": "95010008870",
+            "banco": "GNB SUDAMERIS",
+            "ownerAccountId": "rzqs9PtGqnXEKOUOKvZD",
+            "monto": -860532
+          }
+        ],
+        "batchId": "RaEhLvnTFNbL8MKEV8Al",
+        "saldo": -860532,
+        "documentoPropietario": "94507601"
+      }
+    },
+    {
+      "id": "94539661_202510",
+      "data": {
+        "batchId": "2ZknOTOtqbYFav3c1SMd",
+        "mes": 10,
+        "distribuidoManualmente": true,
+        "distribucion": [
+          {
+            "monto": 1006430,
+            "ownerAccountId": "AHP2RhleBXWVaWW2sYI1",
+            "numeroCuenta": "301.393.392",
+            "porcentaje": 100,
+            "banco": "ITAU"
+          }
+        ],
+        "documentoPropietario": "94539661",
+        "fechaImportacion": {
+          "seconds": 1759606141,
+          "nanoseconds": 845000000
+        },
+        "importadoPor": "derechoybienes@gmail.com",
+        "propietario": "ACHINTE HURTADO GERARDO ANDRES",
+        "saldo": -1006430,
+        "anio": 2025
+      }
+    },
+    {
+      "id": "94552729_202510",
+      "data": {
+        "distribucion": [
+          {
+            "ownerAccountId": "j69vmtoDuZXbtADkAvLk",
+            "banco": "BANCOLOMBIA",
+            "numeroCuenta": "82.984.874.070",
+            "monto": -449675,
+            "porcentaje": 100
+          }
+        ],
+        "mes": 10,
+        "documentoPropietario": "94552729",
+        "batchId": "tJZ7SEVwRw0e8yRpKZT0",
+        "propietario": "DELGADO BARALT GUSTAVO ADOLFO",
+        "fechaImportacion": {
+          "seconds": 1759602567,
+          "nanoseconds": 459000000
+        },
+        "distribuidoManualmente": false,
+        "saldo": -449675,
+        "importadoPor": "derechoybienes@gmail.com",
+        "anio": 2025
+      }
+    },
+    {
+      "id": "9992777_202510",
+      "data": {
+        "propietario": "IDARRAGA GIRALDO LUIS FERNANDO",
+        "batchId": "tJZ7SEVwRw0e8yRpKZT0",
+        "documentoPropietario": "9992777",
+        "anio": 2025,
+        "fechaImportacion": {
+          "seconds": 1759602571,
+          "nanoseconds": 289000000
+        },
+        "distribuidoManualmente": false,
+        "mes": 10,
+        "saldo": -1482129,
+        "importadoPor": "derechoybienes@gmail.com",
+        "distribucion": [
+          {
+            "porcentaje": 100,
+            "numeroCuenta": "30.065.206.726",
+            "ownerAccountId": "av30XE8ktW1XpRSE28Rh",
+            "banco": "BANCOLOMBIA",
+            "monto": -1482129
+          }
+        ]
+      }
+    }
+  ],
+  "batches": [
+    {
+      "id": "0wqzULOPOVUrofOV2bFf",
+      "data": {
+        "anio": 2025,
+        "items": [
+          {
+            "porcentaje": 100,
+            "balanceId": "66904096_202510",
+            "documentoPropietario": "66904096",
+            "propietario": "SOTELO _A_EZ JENNY",
+            "documentoBeneficiario": "66904096",
+            "monto": 1485364,
+            "banco": "BANCO DE OCCIDENTE",
+            "numeroCuenta": "21.812.219",
+            "pagarA": "SOTELO ÑAÑEZ JENNY"
+          }
+        ],
+        "comprobante": "",
+        "observaciones": "OTRO BANCOS",
+        "banco": "BANCO DE OCCIDENTE",
+        "createdBy": "derechoybienes@gmail.com",
+        "paidAt": {
+          "seconds": 1759617451,
+          "nanoseconds": 189000000
+        },
+        "fechaPago": {
+          "seconds": 1759536000,
+          "nanoseconds": 0
+        },
+        "status": "pagado",
+        "fechaProgramada": {
+          "seconds": 1759536000,
+          "nanoseconds": 0
+        },
+        "totalMonto": 1485364,
+        "referencia": "BANCO OCCIDENTE OCT 25",
+        "createdAt": {
+          "seconds": 1759616779,
+          "nanoseconds": 311000000
+        },
+        "mes": 10,
+        "paidBy": "derechoybienes@gmail.com"
+      }
+    },
+    {
+      "id": "2ZknOTOtqbYFav3c1SMd",
+      "data": {
+        "paidBy": "derechoybienes@gmail.com",
+        "createdAt": {
+          "seconds": 1759618740,
+          "nanoseconds": 743000000
+        },
+        "anio": 2025,
+        "fechaProgramada": {
+          "seconds": 1759536000,
+          "nanoseconds": 0
+        },
+        "mes": 10,
+        "items": [
+          {
+            "pagarA": "ACHINTE HURTADO GERARDO",
+            "porcentaje": 100,
+            "balanceId": "94539661_202510",
+            "banco": "ITAU",
+            "propietario": "ACHINTE HURTADO GERARDO ANDRES",
+            "documentoPropietario": "94539661",
+            "monto": 1006430,
+            "numeroCuenta": "301.393.392",
+            "documentoBeneficiario": "94539661"
+          },
+          {
+            "documentoBeneficiario": "7692901",
+            "banco": "ITAU",
+            "documentoPropietario": "7692901",
+            "numeroCuenta": "505.032.659",
+            "porcentaje": 100,
+            "balanceId": "7692901_202510",
+            "propietario": "ARISTIZABAL SALGUERO JUAN CARLOS",
+            "monto": 856417,
+            "pagarA": "ARISTIZABAL SALGUERO JUAN CARLOS"
+          },
+          {
+            "pagarA": "CEMCOP",
+            "numeroCuenta": "302.352.133",
+            "documentoPropietario": "14965879",
+            "documentoBeneficiario": "890301310",
+            "balanceId": "14965879_202510",
+            "porcentaje": 100,
+            "banco": "ITAU",
+            "monto": 848972,
+            "propietario": "ACHINTE VELASCO EDILBERTO"
+          },
+          {
+            "banco": "ITAU",
+            "pagarA": "REY CEBALLOS ALVARO HUMBERTO",
+            "porcentaje": 100,
+            "balanceId": "14956254_202510",
+            "propietario": "REY CEBALLOS ALVARO HUMBERTO",
+            "monto": 989612,
+            "documentoPropietario": "14956254",
+            "numeroCuenta": ".072677862",
+            "documentoBeneficiario": "14956254"
+          }
+        ],
+        "observaciones": "",
+        "comprobante": "",
+        "paidAt": {
+          "seconds": 1759618807,
+          "nanoseconds": 133000000
+        },
+        "totalMonto": 3701431,
+        "fechaPago": {
+          "seconds": 1759536000,
+          "nanoseconds": 0
+        },
+        "status": "pagado",
+        "referencia": "ITAU OCT 25",
+        "banco": "ITAU",
+        "createdBy": "derechoybienes@gmail.com"
+      }
+    },
+    {
+      "id": "3kYrkJdIKkhUIpR6eZmW",
+      "data": {
+        "mes": 10,
+        "comprobante": "",
+        "totalMonto": 2266951,
+        "banco": "BANCO AV VILLAS",
+        "createdBy": "derechoybienes@gmail.com",
+        "items": [
+          {
+            "banco": "BANCO AV VILLAS",
+            "numeroCuenta": "131.009.532",
+            "propietario": "CHARFUELAN DE SANCHEZ BLANCA EMMA",
+            "documentoBeneficiario": "38994534",
+            "monto": 2266951,
+            "pagarA": "CHARFUELAN DE SANCHEZ BLANCA EMMA",
+            "documentoPropietario": "38994534",
+            "porcentaje": 100,
+            "balanceId": "38994534_202510"
+          }
+        ],
+        "createdAt": {
+          "seconds": 1759616948,
+          "nanoseconds": 964000000
+        },
+        "paidBy": "derechoybienes@gmail.com",
+        "observaciones": "OTROS BANCOS",
+        "paidAt": {
+          "seconds": 1759617445,
+          "nanoseconds": 864000000
+        },
+        "referencia": "AV VILLAS OCT 25",
+        "fechaPago": {
+          "seconds": 1759536000,
+          "nanoseconds": 0
+        },
+        "status": "pagado",
+        "fechaProgramada": {
+          "seconds": 1759536000,
+          "nanoseconds": 0
+        },
+        "anio": 2025
+      }
+    },
+    {
+      "id": "Jq7MpTLbVuhBMJyr0zYT",
+      "data": {
+        "anio": 2025,
+        "totalMonto": 1240888,
+        "banco": "BANCO POPULAR",
+        "createdBy": "derechoybienes@gmail.com",
+        "mes": 10,
+        "items": [
+          {
+            "pagarA": "COOSOCOL",
+            "propietario": "RESTREPO LUIS CARLOS",
+            "porcentaje": 100,
+            "monto": 1240888,
+            "numeroCuenta": "564-16178-4",
+            "balanceId": "15345384_202510",
+            "documentoBeneficiario": "8050315448",
+            "banco": "BANCO POPULAR",
+            "documentoPropietario": "15345384"
+          }
+        ],
+        "paidBy": "derechoybienes@gmail.com",
+        "fechaProgramada": {
+          "seconds": 1759536000,
+          "nanoseconds": 0
+        },
+        "status": "pagado",
+        "paidAt": {
+          "seconds": 1759617453,
+          "nanoseconds": 364000000
+        },
+        "fechaPago": {
+          "seconds": 1759536000,
+          "nanoseconds": 0
+        },
+        "comprobante": "",
+        "observaciones": "OTROS BANCOS",
+        "referencia": "BANCO POPULAR OCT 25",
+        "createdAt": {
+          "seconds": 1759616752,
+          "nanoseconds": 311000000
+        }
+      }
+    },
+    {
+      "id": "OnwGJYhi5k9DZvPWoyJQ",
+      "data": {
+        "fechaPago": {
+          "seconds": 1759536000,
+          "nanoseconds": 0
+        },
+        "items": [
+          {
+            "documentoBeneficiario": "31885021",
+            "banco": "DAVIVIENDA",
+            "porcentaje": 100,
+            "pagarA": "HURTADO SOLIS GLORIA AMPARO",
+            "numeroCuenta": ".0550488449409405",
+            "documentoPropietario": "31885021",
+            "monto": 1395475,
+            "balanceId": "31885021_202510",
+            "propietario": "HURTADO SOLIS GLORIA AMPARO"
+          },
+          {
+            "monto": 897650,
+            "numeroCuenta": ".016870111149",
+            "documentoBeneficiario": "29182411",
+            "documentoPropietario": "29182411",
+            "porcentaje": 100,
+            "balanceId": "29182411_202510",
+            "pagarA": "LOSADA JOHANNA ANDREA",
+            "banco": "DAVIVIENDA",
+            "propietario": "LOSADA JOHANNA ANDREA"
+          },
+          {
+            "monto": 890272,
+            "documentoBeneficiario": "1107514565",
+            "banco": "DAVIVIENDA",
+            "numeroCuenta": "16.500.680.067",
+            "documentoPropietario": "1107514565",
+            "pagarA": "NATALIA ZEA VARGAS",
+            "porcentaje": 100,
+            "propietario": "ZEA VARGAS NATALIA",
+            "balanceId": "1107514565_202510"
+          },
+          {
+            "porcentaje": 100,
+            "propietario": "RIOS TINOCO GLORIA ARLENE",
+            "monto": 1539408,
+            "pagarA": "RIOS TINOCO GLORIA ARLENE",
+            "banco": "DAVIVIENDA",
+            "documentoBeneficiario": "31200964",
+            "balanceId": "31200964_202510",
+            "documentoPropietario": "31200964",
+            "numeroCuenta": "17.060.026.501"
+          }
+        ],
+        "paidBy": "derechoybienes@gmail.com",
+        "paidAt": {
+          "seconds": 1759618227,
+          "nanoseconds": 821000000
+        },
+        "fechaProgramada": {
+          "seconds": 1759536000,
+          "nanoseconds": 0
+        },
+        "banco": "DAVIVIENDA",
+        "createdAt": {
+          "seconds": 1759618148,
+          "nanoseconds": 868000000
+        },
+        "comprobante": "",
+        "createdBy": "derechoybienes@gmail.com",
+        "totalMonto": 4722805,
+        "observaciones": "",
+        "referencia": "DAVIVVIENDA OCT 25",
+        "status": "pagado",
+        "anio": 2025,
+        "mes": 10
+      }
+    },
+    {
+      "id": "PwFOPBVuOR6UHc7AWG6w",
+      "data": {
+        "fechaPago": {
+          "seconds": 1759536000,
+          "nanoseconds": 0
+        },
+        "totalMonto": 9987794,
+        "createdAt": {
+          "seconds": 1759618479,
+          "nanoseconds": 403000000
+        },
+        "fechaProgramada": {
+          "seconds": 1759536000,
+          "nanoseconds": 0
+        },
+        "referencia": "BBVA OCT 25",
+        "anio": 2025,
+        "observaciones": "",
+        "mes": 10,
+        "createdBy": "derechoybienes@gmail.com",
+        "paidBy": "derechoybienes@gmail.com",
+        "items": [
+          {
+            "monto": 5687742,
+            "documentoPropietario": "31862603",
+            "porcentaje": 100,
+            "balanceId": "31862603_202510",
+            "banco": "BBVA",
+            "numeroCuenta": "0532000200005460-",
+            "pagarA": "CAMELO PANESSO GLORIA LUZ",
+            "propietario": "CAMELO PANESSO GLORIA LUZ",
+            "documentoBeneficiario": "31862603"
+          },
+          {
+            "documentoBeneficiario": "7692951",
+            "documentoPropietario": "7692951",
+            "banco": "BBVA",
+            "monto": 2679074,
+            "pagarA": "ESCOBAR GASCA LUIS EDUARDO",
+            "numeroCuenta": "524.054.749",
+            "propietario": "ESCOBAR GASCA LUIS EDUARDO",
+            "porcentaje": 100,
+            "balanceId": "7692951_202510"
+          },
+          {
+            "balanceId": "1123623501_202510",
+            "pagarA": "FUERTES CAROLINA",
+            "documentoPropietario": "1123623501",
+            "monto": 1620978,
+            "documentoBeneficiario": "1123623501",
+            "numeroCuenta": "039-5226681",
+            "propietario": "FUERTES SUESCA CAROLINA",
+            "banco": "BBVA",
+            "porcentaje": 100
+          }
+        ],
+        "status": "pagado",
+        "banco": "BBVA",
+        "paidAt": {
+          "seconds": 1759618541,
+          "nanoseconds": 592000000
+        },
+        "comprobante": ""
+      }
+    },
+    {
+      "id": "RaEhLvnTFNbL8MKEV8Al",
+      "data": {
+        "anio": 2025,
+        "status": "pagado",
+        "referencia": "GNB OCT 25",
+        "fechaPago": {
+          "seconds": 1759536000,
+          "nanoseconds": 0
+        },
+        "fechaProgramada": {
+          "seconds": 1759536000,
+          "nanoseconds": 0
+        },
+        "totalMonto": 860532,
+        "items": [
+          {
+            "propietario": "SALDA_A MEDINA GABRIEL",
+            "numeroCuenta": "95010008870",
+            "documentoPropietario": "94507601",
+            "balanceId": "94507601_202510",
+            "banco": "GNB SUDAMERIS",
+            "porcentaje": 100,
+            "documentoBeneficiario": "94507601",
+            "monto": 860532,
+            "pagarA": "SALDAÑA MEDINA GABRIEL"
+          }
+        ],
+        "paidBy": "derechoybienes@gmail.com",
+        "banco": "GNB SUDAMERIS",
+        "observaciones": "OTROS BANCOS",
+        "mes": 10,
+        "paidAt": {
+          "seconds": 1759617448,
+          "nanoseconds": 909000000
+        },
+        "createdBy": "derechoybienes@gmail.com",
+        "createdAt": {
+          "seconds": 1759616833,
+          "nanoseconds": 732000000
+        },
+        "comprobante": ""
+      }
+    },
+    {
+      "id": "TrMphqqzBclHEjA7Rn1f",
+      "data": {
+        "totalMonto": 3097454,
+        "paidBy": "derechoybienes@gmail.com",
+        "createdAt": {
+          "seconds": 1759619124,
+          "nanoseconds": 461000000
+        },
+        "fechaProgramada": {
+          "seconds": 1759536000,
+          "nanoseconds": 0
+        },
+        "fechaPago": {
+          "seconds": 1759536000,
+          "nanoseconds": 0
+        },
+        "paidAt": {
+          "seconds": 1759619201,
+          "nanoseconds": 388000000
+        },
+        "mes": 10,
+        "comprobante": "",
+        "anio": 2025,
+        "createdBy": "derechoybienes@gmail.com",
+        "referencia": "NEQUI",
+        "items": [
+          {
+            "pagarA": "CADENA VIQUE DIANA",
+            "documentoBeneficiario": "1130635646",
+            "balanceId": "1130635646_202510",
+            "porcentaje": 100,
+            "numeroCuenta": "3.177.585.158",
+            "banco": "NEQUI",
+            "propietario": "CADENA VIQUE DIANA VANESSA",
+            "documentoPropietario": "1130635646",
+            "monto": 700149
+          },
+          {
+            "porcentaje": 100,
+            "pagarA": "CASTRO FRANCISCO",
+            "documentoPropietario": "16743169",
+            "monto": 200000,
+            "banco": "NEQUI",
+            "numeroCuenta": "3113627007",
+            "propietario": "CASTRO MURILLAS FRANCISCO JAVIER",
+            "balanceId": "16743169_202510",
+            "documentoBeneficiario": "16743169"
+          },
+          {
+            "propietario": "MILLAN MINA EYDER",
+            "pagarA": "MILLAN MINA EYDER",
+            "porcentaje": 100,
+            "numeroCuenta": "315 5610699",
+            "balanceId": "16657658_202510",
+            "banco": "NEQUI",
+            "monto": 1246417,
+            "documentoPropietario": "16657658",
+            "documentoBeneficiario": "16657658"
+          },
+          {
+            "documentoPropietario": "94455184",
+            "porcentaje": 100,
+            "documentoBeneficiario": "29760950",
+            "pagarA": "TABARES MOLINA GLORIA AMPARO",
+            "numeroCuenta": "3.166.623.854",
+            "banco": "NEQUI",
+            "balanceId": "94455184_202510",
+            "propietario": "BORJA GALLARDO FRANCISCO JAVIER",
+            "monto": 950888
+          }
+        ],
+        "banco": "NEQUI",
+        "status": "pagado",
+        "observaciones": ""
+      }
+    },
+    {
+      "id": "UMHBWAqcTRQ74KwFRwy6",
+      "data": {
+        "status": "pagado",
+        "paidAt": {
+          "seconds": 1759618390,
+          "nanoseconds": 805000000
+        },
+        "createdAt": {
+          "seconds": 1759618340,
+          "nanoseconds": 59000000
+        },
+        "observaciones": "",
+        "createdBy": "derechoybienes@gmail.com",
+        "fechaProgramada": {
+          "seconds": 1759536000,
+          "nanoseconds": 0
+        },
+        "comprobante": "",
+        "paidBy": "derechoybienes@gmail.com",
+        "fechaPago": {
+          "seconds": 1759536000,
+          "nanoseconds": 0
+        },
+        "items": [
+          {
+            "numeroCuenta": "5.862.012.355",
+            "monto": 548986,
+            "pagarA": "JESUS DAVID GIRALDO GUEVARA",
+            "documentoBeneficiario": "1107529953",
+            "banco": "SCOTIABANK",
+            "propietario": "GIRALDO GUEVARA JESUS DAVID",
+            "documentoPropietario": "1107529953",
+            "balanceId": "1107529953_202510",
+            "porcentaje": 100
+          },
+          {
+            "pagarA": "RIASCOS RIASCOS LUPERIO",
+            "documentoBeneficiario": "6159393",
+            "balanceId": "6159393_202510",
+            "porcentaje": 100,
+            "banco": "SCOTIABANK",
+            "numeroCuenta": "5.116.068.011",
+            "propietario": "RIASCOS RIASCOS LUPERIO",
+            "documentoPropietario": "6159393",
+            "monto": 1395504
+          },
+          {
+            "propietario": "AYALDE OCA_A VICTOR RAUL",
+            "pagarA": "VICTOR AYALDE EL BOSQUE",
+            "porcentaje": 100,
+            "numeroCuenta": ".0502072285",
+            "balanceId": "19145266_202510",
+            "banco": "SCOTIABANK",
+            "monto": 2261663,
+            "documentoPropietario": "19145266",
+            "documentoBeneficiario": "19145266"
+          }
+        ],
+        "anio": 2025,
+        "totalMonto": 4206153,
+        "banco": "SCOTIABANK",
+        "referencia": "SCOTIABANK OCT 25",
+        "mes": 10
+      }
+    },
+    {
+      "id": "W2F9j5rULajQJwrxTmrf",
+      "data": {
+        "paidBy": "derechoybienes@gmail.com",
+        "fechaPago": {
+          "seconds": 1759536000,
+          "nanoseconds": 0
+        },
+        "referencia": "CAJA SOCIAL OCT 25",
+        "paidAt": {
+          "seconds": 1759618021,
+          "nanoseconds": 712000000
+        },
+        "createdAt": {
+          "seconds": 1759617969,
+          "nanoseconds": 77000000
+        },
+        "anio": 2025,
+        "observaciones": "",
+        "totalMonto": 4843003,
+        "banco": "CAJA SOCIAL",
+        "createdBy": "derechoybienes@gmail.com",
+        "fechaProgramada": {
+          "seconds": 1759536000,
+          "nanoseconds": 0
+        },
+        "status": "pagado",
+        "comprobante": "",
+        "mes": 10,
+        "items": [
+          {
+            "porcentaje": 100,
+            "banco": "CAJA SOCIAL",
+            "documentoBeneficiario": "31995671",
+            "propietario": "VARGAS VELASCO GLORIA",
+            "monto": 1195833,
+            "numeroCuenta": "24.051.533.371",
+            "documentoPropietario": "31945596",
+            "pagarA": "ALEXANDRA CASTRILLON",
+            "balanceId": "31945596_202510"
+          },
+          {
+            "propietario": "HURTADO HURTADO MARIA NELLY",
+            "monto": 859671,
+            "pagarA": "HURTADO HURTADO MARIA NELLY",
+            "numeroCuenta": "24030623981",
+            "documentoBeneficiario": "31384482",
+            "documentoPropietario": "31384482",
+            "porcentaje": 100,
+            "banco": "CAJA SOCIAL",
+            "balanceId": "31384482_202510"
+          },
+          {
+            "pagarA": "MEJIA GARCIA XIOMARA SOFIA",
+            "documentoBeneficiario": "31576587",
+            "balanceId": "315766587_202510",
+            "numeroCuenta": "24.044.499.396",
+            "monto": 745901,
+            "propietario": "MEJIA GARCIA XIOMARA SOFIA",
+            "banco": "CAJA SOCIAL",
+            "documentoPropietario": "315766587",
+            "porcentaje": 100
+          },
+          {
+            "documentoBeneficiario": "66821029",
+            "banco": "CAJA SOCIAL",
+            "numeroCuenta": "24.036.159.039",
+            "balanceId": "66821029_202510",
+            "porcentaje": 100,
+            "pagarA": "PABON TUNUBALA MARIA DEL PILAR",
+            "documentoPropietario": "66821029",
+            "monto": 653137,
+            "propietario": "PABON TUNUBALA MARIA DEL PILAR"
+          },
+          {
+            "balanceId": "19148342_202510",
+            "documentoBeneficiario": "34527976",
+            "pagarA": "PALOMINO SARA",
+            "documentoPropietario": "19148342",
+            "numeroCuenta": "24.115.617.678",
+            "monto": 250000,
+            "propietario": "BARRIGA GOMEZ ERCEY",
+            "porcentaje": 16,
+            "banco": "CAJA SOCIAL"
+          },
+          {
+            "documentoPropietario": "16771268",
+            "porcentaje": 100,
+            "monto": 1138461,
+            "documentoBeneficiario": "16771268",
+            "banco": "CAJA SOCIAL",
+            "propietario": "ROJAS ALZATE JESUS EMILIO",
+            "balanceId": "16771268_202510",
+            "pagarA": "ROJAS ALZATE JESUS EMILIO",
+            "numeroCuenta": "24.071.521.529"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c9qimEBkEG07Cc2i9ed6",
+      "data": {
+        "createdAt": {
+          "seconds": 1759617096,
+          "nanoseconds": 445000000
+        },
+        "banco": "UALA",
+        "status": "pagado",
+        "paidBy": "derechoybienes@gmail.com",
+        "totalMonto": 563231,
+        "mes": 10,
+        "items": [
+          {
+            "pagarA": "HURTADO CABRERA CLAUDIA MARCELA",
+            "porcentaje": 100,
+            "propietario": "HURTADO CABRERA CLAUDIA MARCELA",
+            "documentoBeneficiario": "1144033592",
+            "balanceId": "1144033592_202510",
+            "banco": "UALA",
+            "documentoPropietario": "1144033592",
+            "numeroCuenta": "825231005652479",
+            "monto": 563231
+          }
+        ],
+        "createdBy": "derechoybienes@gmail.com",
+        "referencia": "ULALA OCT 25",
+        "observaciones": "OTROS BANCOS",
+        "paidAt": {
+          "seconds": 1759617440,
+          "nanoseconds": 396000000
+        },
+        "comprobante": "",
+        "fechaPago": {
+          "seconds": 1759536000,
+          "nanoseconds": 0
+        },
+        "fechaProgramada": {
+          "seconds": 1759536000,
+          "nanoseconds": 0
+        },
+        "anio": 2025
+      }
+    },
+    {
+      "id": "fcPeDE6u7OOWNIvgD40m",
+      "data": {
+        "fechaProgramada": {
+          "seconds": 1759536000,
+          "nanoseconds": 0
+        },
+        "paidBy": "derechoybienes@gmail.com",
+        "fechaPago": {
+          "seconds": 1759536000,
+          "nanoseconds": 0
+        },
+        "anio": 2025,
+        "items": [
+          {
+            "numeroCuenta": ".01735600000270418",
+            "propietario": "SERNA LOPEZ OLGA",
+            "banco": "BANCO UNION",
+            "monto": 774450,
+            "porcentaje": 100,
+            "documentoPropietario": "29805103",
+            "documentoBeneficiario": "31286486",
+            "pagarA": "SERNA CLARA INES",
+            "balanceId": "29805103_202510"
+          }
+        ],
+        "totalMonto": 774450,
+        "createdAt": {
+          "seconds": 1759617138,
+          "nanoseconds": 136000000
+        },
+        "comprobante": "",
+        "observaciones": "OTROS BANCOS",
+        "paidAt": {
+          "seconds": 1759617438,
+          "nanoseconds": 86000000
+        },
+        "createdBy": "derechoybienes@gmail.com",
+        "referencia": "BANCO UNION OCT 25",
+        "banco": "BANCO UNION",
+        "status": "pagado",
+        "mes": 10
+      }
+    },
+    {
+      "id": "llg7jh4lvxCvBgAuhc0S",
+      "data": {
+        "anio": 2025,
+        "createdBy": "derechoybienes@gmail.com",
+        "items": [
+          {
+            "propietario": "CASTRO GUTIERREZ HANNA PAVLOVA",
+            "numeroCuenta": "1.401.021.513",
+            "balanceId": "1010029926_202510",
+            "pagarA": "ESPERANZA CASTAÑO",
+            "porcentaje": 50,
+            "banco": "COOPERATIVA FINANCIERA DE ANTIOQUIA",
+            "documentoBeneficiario": "NIT31268112",
+            "monto": 362524,
+            "documentoPropietario": "1010029926"
+          }
+        ],
+        "paidAt": {
+          "seconds": 1759617442,
+          "nanoseconds": 849000000
+        },
+        "fechaPago": {
+          "seconds": 1759536000,
+          "nanoseconds": 0
+        },
+        "referencia": "COOP FIN ANTIOQUIA OCT 25",
+        "observaciones": "OTROS BANCOS",
+        "status": "pagado",
+        "totalMonto": 362524,
+        "createdAt": {
+          "seconds": 1759617025,
+          "nanoseconds": 936000000
+        },
+        "comprobante": "",
+        "fechaProgramada": {
+          "seconds": 1759536000,
+          "nanoseconds": 0
+        },
+        "banco": "COOPERATIVA FINANCIERA DE ANTIOQUIA",
+        "paidBy": "derechoybienes@gmail.com",
+        "mes": 10
+      }
+    },
+    {
+      "id": "nsmiKEuZq3c7ZIOsuODG",
+      "data": {
+        "totalMonto": 918881,
+        "fechaProgramada": {
+          "seconds": 1759708800,
+          "nanoseconds": 0
+        },
+        "paidAt": {
+          "seconds": 1759763018,
+          "nanoseconds": 387000000
+        },
+        "paidBy": "derechoybienes@gmail.com",
+        "banco": "NU BANK",
+        "createdBy": "derechoybienes@gmail.com",
+        "fechaPago": {
+          "seconds": 1759708800,
+          "nanoseconds": 0
+        },
+        "anio": 2025,
+        "items": [
+          {
+            "monto": 918881,
+            "documentoBeneficiario": "14624167",
+            "balanceId": "14624167_202510",
+            "porcentaje": 100,
+            "documentoPropietario": "14624167",
+            "banco": "NU BANK",
+            "propietario": "RAMIREZ ECHEVERRI MAURICIO",
+            "numeroCuenta": "67277856",
+            "pagarA": "MAURICIO RAMIREZ"
+          }
+        ],
+        "status": "pagado",
+        "comprobante": "",
+        "mes": 10,
+        "createdAt": {
+          "seconds": 1759763013,
+          "nanoseconds": 24000000
+        },
+        "observaciones": "",
+        "referencia": "NU OCT 25"
+      }
+    },
+    {
+      "id": "qdc7uXErj2EXtbJfNoTM",
+      "data": {
+        "paidAt": {
+          "seconds": 1759617435,
+          "nanoseconds": 438000000
+        },
+        "items": [
+          {
+            "porcentaje": 100,
+            "documentoBeneficiario": "4779287",
+            "documentoPropietario": "4779287",
+            "balanceId": "4779287_202510",
+            "numeroCuenta": "421800008684",
+            "propietario": "SINISTERRA JACINTO",
+            "monto": 491883,
+            "pagarA": "SINISTERRA JACINTO",
+            "banco": "BANCO AGRARIO"
+          }
+        ],
+        "paidBy": "derechoybienes@gmail.com",
+        "totalMonto": 491883,
+        "anio": 2025,
+        "createdBy": "derechoybienes@gmail.com",
+        "comprobante": "",
+        "mes": 10,
+        "fechaPago": {
+          "seconds": 1759536000,
+          "nanoseconds": 0
+        },
+        "banco": "BANCO AGRARIO",
+        "observaciones": "OTROS BANCOS",
+        "createdAt": {
+          "seconds": 1759617238,
+          "nanoseconds": 555000000
+        },
+        "status": "pagado",
+        "referencia": "BANCO AGRARIO OTC 25",
+        "fechaProgramada": {
+          "seconds": 1759536000,
+          "nanoseconds": 0
+        }
+      }
+    },
+    {
+      "id": "qqtpDJhwglWu1nYkIKbs",
+      "data": {
+        "banco": "BANCOLOMBIA",
+        "status": "pagado",
+        "paidBy": "derechoybienes@gmail.com",
+        "createdBy": "derechoybienes@gmail.com",
+        "observaciones": "",
+        "comprobante": "",
+        "fechaProgramada": {
+          "seconds": 1759536000,
+          "nanoseconds": 0
+        },
+        "mes": 10,
+        "totalMonto": 25691149,
+        "referencia": "BANCOLOMBIA 1 OCT 25",
+        "paidAt": {
+          "seconds": 1759620030,
+          "nanoseconds": 626000000
+        },
+        "createdAt": {
+          "seconds": 1759619937,
+          "nanoseconds": 167000000
+        },
+        "anio": 2025,
+        "fechaPago": {
+          "seconds": 1759536000,
+          "nanoseconds": 0
+        },
+        "items": [
+          {
+            "monto": 593767,
+            "porcentaje": 100,
+            "documentoBeneficiario": "66981042",
+            "balanceId": "66981042_202510",
+            "documentoPropietario": "66981042",
+            "banco": "BANCOLOMBIA",
+            "propietario": "ARISTIZABAL ADRIANA",
+            "numeroCuenta": "1.068.497.619",
+            "pagarA": "ARISTIZABAL ADRIANA"
+          },
+          {
+            "banco": "BANCOLOMBIA",
+            "monto": 899643,
+            "documentoBeneficiario": "66981042",
+            "numeroCuenta": "1.068.497.619",
+            "propietario": "ARISTIZABAL LOPEZ GENARO DE JESUS",
+            "documentoPropietario": "70825109",
+            "balanceId": "70825109_202510",
+            "pagarA": "ARISTIZABAL ADRIANA",
+            "porcentaje": 100
+          },
+          {
+            "monto": 7000000,
+            "propietario": "CASTA_O SALAZAR JORGE NELSON",
+            "documentoBeneficiario": "94360869",
+            "balanceId": "94360869_202510",
+            "banco": "BANCOLOMBIA",
+            "documentoPropietario": "94360869",
+            "pagarA": "CASTAÑO SALAZAR JORGE NELSON",
+            "numeroCuenta": "72.569.460.141",
+            "porcentaje": 100
+          },
+          {
+            "pagarA": "CELORIO BENITEZ AMANDA",
+            "numeroCuenta": "76.661.787.232",
+            "documentoBeneficiario": "31376972",
+            "propietario": "CELORIO BENITEZ AMANDA",
+            "banco": "BANCOLOMBIA",
+            "balanceId": "31376972_202510",
+            "porcentaje": 56,
+            "documentoPropietario": "31376972",
+            "monto": 1660992
+          },
+          {
+            "documentoPropietario": "16697392",
+            "propietario": "COLLAZOS ROJAS CARLOS ALBERTO",
+            "banco": "BANCOLOMBIA",
+            "documentoBeneficiario": "16597392",
+            "numeroCuenta": "71.014.622.769",
+            "balanceId": "16697392_202510",
+            "monto": 2248991,
+            "porcentaje": 100,
+            "pagarA": "COLLAZOS ROJAS CARLOS ALBERTO"
+          },
+          {
+            "monto": 2700000,
+            "numeroCuenta": "63127006799  -  convenio 23940",
+            "banco": "BANCOLOMBIA",
+            "balanceId": "3493335_202510",
+            "pagarA": "COOGRANADA2 99",
+            "propietario": "ARISTIZABAL LOPEZ ARNOLDO DE JESUS",
+            "documentoBeneficiario": "890981912",
+            "porcentaje": 100,
+            "documentoPropietario": "3493335"
+          },
+          {
+            "balanceId": "51746506_202510",
+            "numeroCuenta": "85.335.387.177",
+            "documentoBeneficiario": "24988649",
+            "monto": 256000,
+            "documentoPropietario": "51746506",
+            "pagarA": "FAJARDO VALENCIA MARTA LUCIA",
+            "porcentaje": 100,
+            "banco": "BANCOLOMBIA",
+            "propietario": "FAJARDO VALENCIA GLORIA AMPARO"
+          },
+          {
+            "monto": 620399,
+            "porcentaje": 100,
+            "pagarA": "GARCIA ZUÑIGA MYRIAM",
+            "documentoPropietario": "31241306",
+            "propietario": "GARCIA ZU_IGA MYRIAM",
+            "balanceId": "31241306_202510",
+            "documentoBeneficiario": "31241306",
+            "numeroCuenta": "75.236.558.291",
+            "banco": "BANCOLOMBIA"
+          },
+          {
+            "balanceId": "16633228_202510",
+            "propietario": "GIL MEDINA JAIR ALEJANDRO",
+            "pagarA": "GIL CARLOS ARTURO",
+            "porcentaje": 100,
+            "documentoBeneficiario": "14939022",
+            "banco": "BANCOLOMBIA",
+            "monto": 2971267,
+            "numeroCuenta": "74510736048",
+            "documentoPropietario": "16633228"
+          },
+          {
+            "documentoBeneficiario": "38435334",
+            "propietario": "HENAO ECHEVERRI DIANA BEATRIZ",
+            "balanceId": "38435334_202510",
+            "numeroCuenta": "82116022580",
+            "porcentaje": 100,
+            "pagarA": "HENAO ECHEVERRI DIANA BEATRIZ",
+            "banco": "BANCOLOMBIA",
+            "documentoPropietario": "38435334",
+            "monto": 635941
+          },
+          {
+            "porcentaje": 100,
+            "propietario": "HENAO ECHEVERRI MARIA PATRICIA",
+            "banco": "BANCOLOMBIA",
+            "numeroCuenta": "71000028783",
+            "pagarA": "HENAO ECHEVERRI MARIA PATRICIA",
+            "documentoPropietario": "31290539",
+            "balanceId": "31290539_202510",
+            "monto": 1290469,
+            "documentoBeneficiario": "31290539"
+          },
+          {
+            "propietario": "ZACIPA SILVA MARIA VILMA",
+            "balanceId": "31209308_202510",
+            "numeroCuenta": "51413601235",
+            "banco": "BANCOLOMBIA",
+            "pagarA": "JAMES CAMPIÑO ZACIPA",
+            "porcentaje": 100,
+            "documentoBeneficiario": "94410404",
+            "monto": 1247771,
+            "documentoPropietario": "31209308"
+          },
+          {
+            "balanceId": "31983834_202510",
+            "documentoBeneficiario": "31983834",
+            "numeroCuenta": "51.451.017.458",
+            "pagarA": "LOSADA ÑAÑEZ SANDRA PILAR",
+            "propietario": "LOSADA _A_EZ SANDRA PILAR",
+            "porcentaje": 100,
+            "monto": 1768664,
+            "documentoPropietario": "31983834",
+            "banco": "BANCOLOMBIA"
+          },
+          {
+            "pagarA": "PEREIRA GONZALEZ LUCERO",
+            "propietario": "BARONA PEREIRA CATALINA",
+            "monto": 857090,
+            "numeroCuenta": "51.492.086.456",
+            "balanceId": "1130623573_202510",
+            "porcentaje": 100,
+            "documentoBeneficiario": "31894787",
+            "banco": "BANCOLOMBIA",
+            "documentoPropietario": "1130623573"
+          },
+          {
+            "documentoPropietario": "1090366116",
+            "pagarA": "SILVA LEAL JUAN PABLO",
+            "numeroCuenta": "83628640508",
+            "banco": "BANCOLOMBIA",
+            "monto": 940155,
+            "propietario": "SILVA LEAL JUAN PABLO RODRIGO ALBERTO",
+            "balanceId": "1090366116_202510",
+            "porcentaje": 100,
+            "documentoBeneficiario": "1090366116"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tJZ7SEVwRw0e8yRpKZT0",
+      "data": {
+        "createdAt": {
+          "seconds": 1759620492,
+          "nanoseconds": 185000000
+        },
+        "anio": 2025,
+        "paidAt": {
+          "seconds": 1759620571,
+          "nanoseconds": 423000000
+        },
+        "status": "pagado",
+        "fechaProgramada": {
+          "seconds": 1759536000,
+          "nanoseconds": 0
+        },
+        "comprobante": "",
+        "observaciones": "",
+        "fechaPago": {
+          "seconds": 1759536000,
+          "nanoseconds": 0
+        },
+        "createdBy": "derechoybienes@gmail.com",
+        "items": [
+          {
+            "numeroCuenta": "82.900.017.464",
+            "banco": "BANCOLOMBIA",
+            "monto": 4027033,
+            "propietario": "RODRIGUEZ NAVAS LEONEL",
+            "porcentaje": 100,
+            "documentoPropietario": "16584271",
+            "pagarA": "ARCINIEGAS ALVAREZ LUZ ADRIANA",
+            "documentoBeneficiario": "31877658",
+            "balanceId": "16584271_202510"
+          },
+          {
+            "banco": "BANCOLOMBIA",
+            "documentoPropietario": "31877658",
+            "pagarA": "ARCINIEGAS ALVAREZ LUZ ADRIANA",
+            "propietario": "ARCINIEGAS ALVAREZ LUZ ADRIANA",
+            "porcentaje": 100,
+            "monto": 2682917,
+            "numeroCuenta": "82.900.017.464",
+            "balanceId": "31877658_202510",
+            "documentoBeneficiario": "31877658"
+          },
+          {
+            "documentoBeneficiario": "94552729",
+            "banco": "BANCOLOMBIA",
+            "pagarA": "DELGADO BARALT GUSTAVO ADOLFO",
+            "numeroCuenta": "82.984.874.070",
+            "monto": 449675,
+            "porcentaje": 100,
+            "balanceId": "94552729_202510",
+            "propietario": "DELGADO BARALT GUSTAVO ADOLFO",
+            "documentoPropietario": "94552729"
+          },
+          {
+            "documentoBeneficiario": "1125806228",
+            "monto": 727862,
+            "banco": "BANCOLOMBIA",
+            "documentoPropietario": "1125806228",
+            "balanceId": "1125806228_202510",
+            "pagarA": "ESTRADA ARIAS LAURA ANDREA",
+            "numeroCuenta": "29.868.447.832",
+            "porcentaje": 100,
+            "propietario": "ESTRADA ARIAS LAURA ANDREA"
+          },
+          {
+            "documentoBeneficiario": "38641268",
+            "monto": 731452,
+            "banco": "BANCOLOMBIA",
+            "pagarA": "GALLEGO POSSO PAOLA ANDREA",
+            "documentoPropietario": "38641268",
+            "propietario": "GALLEGO POSSO PAOLA ANDREA",
+            "numeroCuenta": "51.482.961.537",
+            "balanceId": "38641268_202510",
+            "porcentaje": 100
+          },
+          {
+            "porcentaje": 100,
+            "monto": 516300,
+            "documentoPropietario": "16698111",
+            "documentoBeneficiario": "16698111",
+            "balanceId": "16698111_202510",
+            "banco": "BANCOLOMBIA",
+            "pagarA": "GARCIA TABORDA JOSE OMAR",
+            "numeroCuenta": "74900004357",
+            "propietario": "GARCIA TABORDA JOSE OMAR"
+          },
+          {
+            "balanceId": "1144191734_202510",
+            "banco": "BANCOLOMBIA",
+            "documentoBeneficiario": "1144191734",
+            "monto": 555911,
+            "porcentaje": 100,
+            "numeroCuenta": "82.500.057.340",
+            "pagarA": "GOMEZ CASTILLO MIGUEL ANGEL",
+            "propietario": "GOMEZ CASTILLO MIGUEL ANGEL",
+            "documentoPropietario": "1144191734"
+          },
+          {
+            "monto": 692636,
+            "banco": "BANCOLOMBIA",
+            "propietario": "GOMEZ ORTEGA ISAURA",
+            "numeroCuenta": "81.368.428.272",
+            "balanceId": "1061691871_202510",
+            "documentoPropietario": "1061691871",
+            "documentoBeneficiario": "1061691871",
+            "porcentaje": 100,
+            "pagarA": "GOMEZ ORTEGA ISAURA"
+          },
+          {
+            "propietario": "IDARRAGA GIRALDO LUIS FERNANDO",
+            "documentoPropietario": "9992777",
+            "monto": 1482129,
+            "pagarA": "IDARRAGA GIRALDO LUIS FERNANDO",
+            "numeroCuenta": "30.065.206.726",
+            "documentoBeneficiario": "9992777",
+            "banco": "BANCOLOMBIA",
+            "porcentaje": 100,
+            "balanceId": "9992777_202510"
+          },
+          {
+            "documentoBeneficiario": "16285571",
+            "balanceId": "16285571_202510",
+            "monto": 1177207,
+            "porcentaje": 100,
+            "pagarA": "LEDESMA OTERO GERMAIN ADRIAN",
+            "propietario": "LEDESMA OTERO GERMAIN ADRIAN",
+            "numeroCuenta": "74.124.089.372",
+            "documentoPropietario": "16285571",
+            "banco": "BANCOLOMBIA"
+          },
+          {
+            "documentoPropietario": "66765743",
+            "porcentaje": 100,
+            "pagarA": "LONDOÑO PIEDRAHITA MARIA EUGENIA",
+            "numeroCuenta": "6.080.946.684",
+            "documentoBeneficiario": "66765743",
+            "monto": 815692,
+            "propietario": "LONDO_O PIEDRAHITA MARIA EUGENIA",
+            "banco": "BANCOLOMBIA",
+            "balanceId": "66765743_202510"
+          },
+          {
+            "propietario": "LONDO_O SERNA SANDRA PATRICIA",
+            "monto": 946798,
+            "documentoBeneficiario": "66717138",
+            "pagarA": "LONDOÑO SERNA SANDRA PATRICIA",
+            "banco": "BANCOLOMBIA",
+            "balanceId": "66717138_202510",
+            "porcentaje": 100,
+            "documentoPropietario": "66717138",
+            "numeroCuenta": "51.460.598.595"
+          },
+          {
+            "propietario": "MAFLA FIGUEROA NELLY",
+            "banco": "BANCOLOMBIA",
+            "balanceId": "29070367_202510",
+            "documentoPropietario": "29070367",
+            "numeroCuenta": "76.400.025.581",
+            "porcentaje": 100,
+            "documentoBeneficiario": "31448576",
+            "pagarA": "MOLINA JACKELINE",
+            "monto": 1204700
+          },
+          {
+            "balanceId": "21386841_202510",
+            "documentoBeneficiario": "21386841",
+            "pagarA": "NARVAEZ CASTAÑO MARIA RUBIELA",
+            "numeroCuenta": "74.542.297.551",
+            "documentoPropietario": "21386841",
+            "monto": 982771,
+            "banco": "BANCOLOMBIA",
+            "porcentaje": 100,
+            "propietario": "NARVAEZ CASTA_O MARIA RUBIELA"
+          },
+          {
+            "documentoBeneficiario": "94504519",
+            "documentoPropietario": "94504519",
+            "balanceId": "94504519_202510",
+            "pagarA": "OTERO MAURICIO",
+            "porcentaje": 100,
+            "monto": 1017664,
+            "propietario": "OTERO JIMMY MAURICIO",
+            "numeroCuenta": "80719682816",
+            "banco": "BANCOLOMBIA"
+          },
+          {
+            "propietario": "OTERO OTERO BLANCA TERESA",
+            "documentoBeneficiario": "41762040",
+            "porcentaje": 100,
+            "numeroCuenta": "80716453832",
+            "balanceId": "41762040_202510",
+            "monto": 1286919,
+            "pagarA": "OTERO OTERO BLANCA TERESA",
+            "banco": "BANCOLOMBIA",
+            "documentoPropietario": "41762040"
+          },
+          {
+            "propietario": "PARRA QUINTERO ANA MONICA",
+            "documentoPropietario": "66777084",
+            "porcentaje": 100,
+            "balanceId": "66777084_202510",
+            "banco": "BANCOLOMBIA",
+            "documentoBeneficiario": "66777084",
+            "monto": 1201569,
+            "numeroCuenta": ".06600001732",
+            "pagarA": "PARRA QUINTERO ANA MONICA"
+          },
+          {
+            "propietario": "RIASCOS JIMENEZ MARIA FANNY",
+            "numeroCuenta": "76443475041",
+            "documentoPropietario": "31866998",
+            "balanceId": "31866998_202510",
+            "monto": 783084,
+            "pagarA": "RIASCOS RIASCOS DIANA MARCELA",
+            "documentoBeneficiario": "1113516038",
+            "banco": "BANCOLOMBIA",
+            "porcentaje": 100
+          },
+          {
+            "documentoBeneficiario": "1107071670",
+            "porcentaje": 100,
+            "documentoPropietario": "1130642412",
+            "pagarA": "ROSERO LOPEZ FABIO",
+            "monto": 678960,
+            "propietario": "ROSERO LOPEZ MONICA",
+            "banco": "BANCOLOMBIA",
+            "balanceId": "1130642412_202510",
+            "numeroCuenta": "6000056394"
+          },
+          {
+            "numeroCuenta": "71.000.020.740",
+            "balanceId": "1126602663_202510",
+            "documentoPropietario": "1126602663",
+            "monto": 635280,
+            "porcentaje": 100,
+            "propietario": "GOMEZ FAJARDO MARILYN",
+            "banco": "BANCOLOMBIA",
+            "documentoBeneficiario": "24988008",
+            "pagarA": "VALENCIA DE FAJARDO MARIA EDILMA"
+          },
+          {
+            "documentoPropietario": "1144087232",
+            "pagarA": "VELASCO RIOS ORLANDO",
+            "numeroCuenta": "80.374.197.723",
+            "balanceId": "1144087232_202510",
+            "monto": 814924,
+            "porcentaje": 100,
+            "banco": "BANCOLOMBIA",
+            "propietario": "VELASCO RIOS ORLANDO",
+            "documentoBeneficiario": "1144087232"
+          },
+          {
+            "banco": "BANCOLOMBIA",
+            "propietario": "ZACIPA SILVA EDITH",
+            "numeroCuenta": "60.500.000.145",
+            "documentoPropietario": "31219108",
+            "pagarA": "ZACIPA SILVA EDITH",
+            "balanceId": "31219108_202510",
+            "porcentaje": 100,
+            "monto": 2308603,
+            "documentoBeneficiario": "31219108"
+          }
+        ],
+        "referencia": "BANCOLOMBIA 2 OCT 25",
+        "mes": 10,
+        "banco": "BANCOLOMBIA",
+        "paidBy": "derechoybienes@gmail.com",
+        "totalMonto": 25720086
+      }
+    },
+    {
+      "id": "uqMDRfLe5fnWvls8SGpB",
+      "data": {
+        "createdBy": "derechoybienes@gmail.com",
+        "paidBy": "derechoybienes@gmail.com",
+        "paidAt": {
+          "seconds": 1759615197,
+          "nanoseconds": 85000000
+        },
+        "mes": 10,
+        "referencia": "LOTE-BANCO-202510-695",
+        "status": "pagado",
+        "fechaPago": {
+          "seconds": 1759536000,
+          "nanoseconds": 0
+        },
+        "items": [
+          {
+            "numeroCuenta": "459265922",
+            "documentoPropietario": "31193423",
+            "monto": 2569501,
+            "porcentaje": 100,
+            "banco": "BANCO DE BOGOTA",
+            "balanceId": "31193423_202510",
+            "documentoBeneficiario": "31193423",
+            "propietario": "GORDILLO TRIVI_O DARNELLY",
+            "pagarA": "GORDILLO TRIVIÑO DARNELLY"
+          },
+          {
+            "numeroCuenta": ".054528849",
+            "propietario": "POSADA YEPES JOSE MIGUEL",
+            "balanceId": "16375429_202510",
+            "monto": 1833857,
+            "documentoBeneficiario": "16375429",
+            "banco": "BANCO DE BOGOTA",
+            "porcentaje": 100,
+            "pagarA": "JOSE MIGUEL POSADA YEPES",
+            "documentoPropietario": "16375429"
+          },
+          {
+            "monto": 689052,
+            "numeroCuenta": "254.310.030",
+            "balanceId": "16593762_202510",
+            "documentoPropietario": "16593762",
+            "porcentaje": 100,
+            "documentoBeneficiario": "16593762",
+            "pagarA": "LEONARDO GARCIA",
+            "banco": "BANCO DE BOGOTA",
+            "propietario": "GARCIA ZU_IGA LEONARDO"
+          },
+          {
+            "propietario": "PANESSO WILMER",
+            "numeroCuenta": "142073170",
+            "documentoPropietario": "16752237",
+            "balanceId": "16752237_202510",
+            "banco": "BANCO DE BOGOTA",
+            "porcentaje": 100,
+            "documentoBeneficiario": "16752237",
+            "monto": 906585,
+            "pagarA": "WILMER PANESSO"
+          }
+        ],
+        "fechaProgramada": {
+          "seconds": 1759536000,
+          "nanoseconds": 0
+        },
+        "banco": "BANCO DE BOGOTA",
+        "totalMonto": 5998995,
+        "comprobante": "",
+        "observaciones": "",
+        "anio": 2025,
+        "createdAt": {
+          "seconds": 1759615131,
+          "nanoseconds": 637000000
+        }
+      }
+    }
+  ]
+}
