@@ -3,7 +3,7 @@ import { useCollection } from '../hooks/useCollection';
 import { Account, ImportLog, ImportError, Transaction, DuplicateTransaction } from '../types';
 import { Timestamp } from 'firebase/firestore';
 import { AlertTriangle, Building2, Edit2, FileX, PlusCircle, Search, Trash2, Upload, ChevronDown, ChevronUp } from 'lucide-react';
-import { doc, collection, addDoc, writeBatch, where, query, getDocs, getDoc, deleteDoc, updateDoc } from 'firebase/firestore';
+import { doc, collection, addDoc, writeBatch, where, query, getDocs, getDoc, deleteDoc, updateDoc, orderBy, limit } from 'firebase/firestore';
 import { db, auth } from '../lib/firebase';
 import toast from 'react-hot-toast';
 import Papa from 'papaparse';
@@ -431,7 +431,27 @@ function Accounts() {
     return duplicates;
   };
 
-  // Función para crear log de importación (actualmente no utilizada, se crea directamente en handleFileUpload)
+  // Función para obtener el último rowIndex de una cuenta
+  const getLastRowIndex = async (accountId: string): Promise<number> => {
+    try {
+      const transactionsRef = collection(db, 'transactions');
+      const q = query(
+        transactionsRef,
+        where('accountId', '==', accountId),
+        orderBy('rowIndex', 'desc'),
+        limit(1)
+      );
+      const snapshot = await getDocs(q);
+      if (!snapshot.empty) {
+        const lastTransaction = snapshot.docs[0].data() as Transaction;
+        return lastTransaction.rowIndex ?? 0;
+      }
+      return 0;
+    } catch (error) {
+      console.error('Error obteniendo último rowIndex:', error);
+      return 0;
+    }
+  };
   // const createImportLog = async (
   //   account: Account,
   //   fileName: string,
@@ -566,6 +586,9 @@ function Accounts() {
         userId: auth.currentUser?.email || ''
       });
 
+      const lastRowIndex = await getLastRowIndex(account.id || '');
+      console.log(`Último rowIndex encontrado: ${lastRowIndex}. Nuevas transacciones empezarán desde: ${lastRowIndex + 1}`);
+
       const processedTransactions = [];
       
       for (let i = 0; i < results.data.length; i++) {
@@ -577,8 +600,8 @@ function Accounts() {
             account.nombre || '',
             account.numeroCuenta || '',
             account.banco || '',
-            importLogRef.id, // Usar el ID del documento de importLog
-            i
+            importLogRef.id,
+            lastRowIndex + i + 1  // Offset: último índice + posición en CSV + 1
           );
           if (transaction) {
             processedTransactions.push({

@@ -33,8 +33,8 @@ export default function Transactions() {
   } = useFirestoreOptimized<Transaction>('transactions', {
     expireTime: 5,
     localStorageKey: 'transactionsCache',
-    orderByField: 'rowIndex',
-    orderDirection: 'asc'
+    orderByField: 'fecha',
+    orderDirection: 'desc'
   });
 
   const { data: responsibles } = useFirestoreOptimized<Responsible>('responsibles');
@@ -137,15 +137,27 @@ export default function Transactions() {
     return transactionResponsibleMap.get(transactionId);
   }, [transactionResponsibleMap]);
 
-  const filteredTransactions = useMemo(() => {
+  // Ordenar transacciones por rowIndex numérico (asegurar orden correcto)
+  const sortedTransactions = useMemo(() => {
     if (!transactions) return [];
-    return transactions.filter(transaction => {
-      // Tu lógica de filtrado existente va aquí...
-      // (Esta es una copia de la lógica del archivo original)
+    return [...transactions].sort((a, b) => {
+      const indexA = typeof a.rowIndex === 'number' ? a.rowIndex : parseInt(a.rowIndex as any) || 0;
+      const indexB = typeof b.rowIndex === 'number' ? b.rowIndex : parseInt(b.rowIndex as any) || 0;
+      return indexA - indexB;
+    });
+  }, [transactions]);
+
+  const filteredTransactions = useMemo(() => {
+    if (!sortedTransactions) return [];
+    
+    const filtered = sortedTransactions.filter(transaction => {
+      const [, month, year] = transaction.fechaStr.split('/');
+      
+      const matchesDate = (selectedMonth === '' || month === selectedMonth) && (selectedYear === 'all' || year === selectedYear);
+      // ... resto del filtrado
       const searchTerm = debouncedSearch.toLowerCase();
       const responsible = getResponsibleInfo(transaction.id);
       
-      // Búsqueda en propiedades del responsable
       let matchesResponsibleData = false;
       if (responsible) {
         const responsibleName = responsible.name?.toLowerCase() || '';
@@ -162,7 +174,6 @@ export default function Transactions() {
           responsibleEmpresa.includes(searchTerm);
       }
       
-      // Búsqueda en propiedades de la transacción
       const matchesSearch = 
         transaction.descripcion?.toLowerCase().includes(searchTerm) ||
         transaction.valor?.toString().includes(searchTerm) ||
@@ -185,12 +196,14 @@ export default function Transactions() {
       const matchesDocContableFilter = filterDocContable === 'all' || (filterDocContable === 'withDoc' && hasDocContable) || (filterDocContable === 'withoutDoc' && !hasDocContable);
       const matchesZeroValue = !hideZeroValues || transaction.valor !== 0;
       const matchesGrav = !hideGravDesc || !(transaction.descripcion?.toUpperCase().includes('GRAV') || transaction.descripcion?.toUpperCase().includes('COMISION'));
-      const [, month, year] = transaction.fechaStr.split('/');
-      const matchesDate = (selectedMonth === '' || month === selectedMonth) && (selectedYear === 'all' || year === selectedYear);
       const matchesAccount = selectedAccount === '' || transaction.accountName === selectedAccount;
 
-      return matchesSearch && matchesColor && matchesType && matchesResponsible && matchesDetails && matchesDocContableFilter && matchesZeroValue && matchesGrav && matchesDate && matchesAccount;
+      const result = matchesSearch && matchesColor && matchesType && matchesResponsible && matchesDetails && matchesDocContableFilter && matchesZeroValue && matchesGrav && matchesDate && matchesAccount;
+      
+      return result;
     });
+    
+    return filtered;
   }, [transactions, debouncedSearch, filterType, filterResponsible, filterDetails, filterDocContable, selectedColors, hideZeroValues, hideGravDesc, selectedMonth, selectedYear, selectedAccount, getResponsibleInfo]);
   
   const totalBalance = useMemo(() => filteredTransactions.reduce((sum, t) => sum + t.valor, 0), [filteredTransactions]);
@@ -477,7 +490,7 @@ export default function Transactions() {
 
     toast.success('Archivo CSV exportado correctamente');
   }, [selectedAccount, selectedMonth, selectedYear, transactions, availableMonths, getResponsibleInfo]);
-  
+
   // --- CONFIGURACIÓN DE LA TABLA ---
   type ColumnConfig = {
     width: string;
